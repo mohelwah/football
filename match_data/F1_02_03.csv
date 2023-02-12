@@ -1,0 +1,381 @@
+Div;Date;HomeTeam;AwayTeam;FTHG;FTAG;FTR;HTHG;HTAG;HTR;B365H;B365D;B365A;GBH;GBD;GBA;IWH;IWD;IWA;LBH;LBD;LBA;SBH;SBD;SBA;WHH;WHD;WHA;GB>2.5;GB<2.5
+F1;02.08.2002;Guingamp;Lyon;3;3;D;1;2;A;03.lut;3;02.sty;lut.95;03.sty;02.lut;3;02.wrz;02.lut;03.lut;3;02.sty;2.875;03.sty;lut.25;;;;01.wrz;01.lip
+F1;03.08.2002;Bastia;Lens;1;1;D;0;0;D;02.maj;2.875;2.625;lut.52;mar.15;lut.48;02.cze;02.sie;02.cze;2.375;03.lut;02.cze;02.maj;3;02.cze;02.maj;03.sty;02.maj;01.wrz;01.lip
+F1;03.08.2002;Lille;Bordeaux;0;3;A;0;1;A;02.sty;3;03.lut;2;mar.15;mar.35;02.lut;02.sie;03.sty;02.lut;3;3;02.sty;3;mar.25;02.lut;03.sty;lut.87;sty.85;sty.75
+F1;03.08.2002;Marseille;Nantes;0;2;A;0;0;D;lut.25;3;2.875;lut.25;03.maj;02.wrz;02.lut;02.wrz;3;lut.25;03.lut;lut.75;02.mar;03.sty;02.sie;02.lut;3;3;sty.85;sty.75
+F1;03.08.2002;Montpellier;Rennes;1;0;H;0;0;D;1.833;3;4;sty.82;mar.15;4;01.wrz;02.wrz;03.sie;1.909;3;mar.75;1.909;03.sty;mar.75;01.wrz;03.sty;03.cze;01.sie;01.sie
+F1;03.08.2002;Nice;Le Havre;1;2;A;0;1;A;1.909;3;mar.75;sty.95;03.sty;03.cze;2;02.wrz;03.kwi;02.sty;03.lut;3;1.909;03.sty;mar.75;sty.83;03.lut;mar.75;01.sie;01.sie
+F1;03.08.2002;Paris SG;Auxerre;1;0;H;0;0;D;1.833;3;4;sty.72;03.lut;04.maj;01.sie;3;4;01.sie;03.lut;4;1.833;03.sty;4;sty.66;03.mar;04.maj;sty.95;sty.65
+F1;03.08.2002;Sedan;Sochaux;0;0;D;0;0;D;2;3;03.kwi;02.sty;3;mar.25;01.wrz;02.wrz;03.sie;02.sty;3;03.lut;02.sty;3;mar.25;2;03.sty;03.mar;sty.75;sty.85
+F1;03.08.2002;Strasbourg;Ajaccio;1;1;D;1;1;D;1.833;3;4;01.wrz;03.sty;mar.75;sty.85;3;03.sie;1.909;3;mar.75;sty.85;03.sty;4;01.sie;03.sty;4;sty.75;sty.85
+F1;03.08.2002;Troyes;Monaco;0;4;A;0;2;A;02.sty;3;03.lut;2;03.sty;03.kwi;02.sty;3;03.sty;02.sty;3;03.lut;02.sty;3;mar.25;02.sty;03.sty;03.sty;01.sie;01.sie
+F1;08.08.2002;Auxerre;Montpellier;2;0;H;0;0;D;1.667;03.kwi;4.333;sty.65;mar.35;5;sty.65;03.sty;04.sie;;;;01.cze;mar.25;05.maj;sty.57;mar.25;05.maj;sty.95;01.lip
+F1;09.08.2002;Bordeaux;Paris SG;0;0;D;0;0;D;02.lut;3;3;lut.22;3;mar.22;2;02.wrz;03.kwi;02.lut;02.sie;03.lut;02.maj;03.sty;mar.25;02.sty;3;03.lut;sty.95;sty.65
+F1;10.08.2002;Ajaccio;Guingamp;0;2;A;0;1;A;02.sty;3;03.lut;02.maj;03.sty;mar.54;2;02.wrz;03.kwi;02.sty;03.lut;3;02.lut;3;03.sty;02.sty;3;03.lut;2;01.cze
+F1;10.08.2002;Le Havre;Lille;0;0;D;0;0;D;lut.25;2.875;3;lut.38;3;3;02.mar;02.lip;3;lut.25;2.875;3;lut.25;2.875;03.sty;lut.25;3;lut.87;02.maj;01.cze
+F1;10.08.2002;Lens;Sochaux;1;1;D;0;1;A;1.571;mar.25;05.maj;01.cze;03.kwi;maj.25;01.cze;03.mar;04.sie;1.615;03.lut;05.maj;1.571;03.kwi;05.maj;sty.61;03.mar;5;01.wrz;01.lip
+F1;10.08.2002;Lyon;Sedan;6;1;H;2;1;H;1.364;mar.75;8;sty.43;kwi.15;lip.75;01.kwi;03.lip;06.maj;01.kwi;mar.75;7;01.kwi;mar.75;07.maj;sty.44;03.maj;7;01.sie;01.sie
+F1;10.08.2002;Monaco;Marseille;0;1;A;0;0;D;2;3;03.kwi;sty.94;mar.15;mar.75;01.wrz;02.wrz;03.sie;1.909;3;mar.75;sty.85;03.lut;03.sie;01.wrz;03.sty;03.cze;02.maj;01.lip
+F1;10.08.2002;Nantes;Bastia;1;0;H;0;0;D;1.615;mar.25;5;01.cze;03.kwi;maj.27;01.lip;03.sty;04.kwi;1.667;mar.25;04.maj;1.667;03.lut;5;sty.61;03.mar;5;01.sie;01.sie
+F1;10.08.2002;Nice;Strasbourg;4;0;H;2;0;H;02.sty;3;03.lut;02.lut;3;mar.35;02.lut;02.sie;03.sty;02.sty;3;03.lut;02.sty;3;03.mar;01.wrz;3;mar.75;sty.95;sty.65
+F1;10.08.2002;Rennes;Troyes;0;0;D;0;0;D;2;3;03.kwi;sty.94;mar.15;mar.75;01.wrz;3;03.cze;2;03.lut;03.lut;2;3;03.maj;sty.83;3;4;sty.89;sty.75
+F1;16.08.2002;Marseille;Lyon;1;1;D;1;1;D;02.kwi;3;02.lip;02.cze;03.sty;lut.63;02.cze;02.lip;02.lip;02.maj;03.lut;02.maj;02.maj;03.sty;02.cze;02.maj;02.wrz;lut.62;01.wrz;sty.77
+F1;17.08.2002;Bastia;Monaco;1;0;H;0;0;D;lut.25;3;2.875;02.mar;3;lut.92;02.mar;02.wrz;02.sie;02.lut;03.lut;02.sie;02.mar;3;3;lut.37;02.wrz;02.sie;sty.95;sty.65
+F1;17.08.2002;Guingamp;Rennes;3;0;H;1;0;H;1.909;3;mar.75;lut.22;02.wrz;03.lip;01.wrz;02.wrz;03.sie;2;3;03.kwi;2;3;mar.75;02.sty;02.sie;03.kwi;02.maj;01.cze
+F1;17.08.2002;Lille;Nice;0;3;A;0;2;A;1.667;mar.25;04.maj;sty.66;mar.35;maj.35;01.cze;03.kwi;04.cze;1.571;mar.25;05.maj;1.667;03.mar;5;sty.66;03.sty;5;2;sty.65
+F1;17.08.2002;Montpellier;Bordeaux;0;1;A;0;1;A;02.maj;2.875;2.625;02.maj;3;02.lip;02.wrz;02.lip;02.kwi;02.maj;03.lut;02.maj;02.maj;3;02.lip;02.cze;02.sie;02.cze;02.sty;sty.55
+F1;17.08.2002;Paris SG;Ajaccio;2;2;D;2;0;H;1.364;mar.75;8;sty.35;mar.85;sie.75;sty.35;4;7;1.364;mar.75;8;01.kwi;mar.75;8;sty.36;03.cze;9;sty.85;sty.75
+F1;17.08.2002;Sedan;Lens;0;1;A;0;1;A;02.lip;3;02.kwi;02.lip;lut.91;lut.56;02.lip;02.cze;02.lip;02.maj;03.lut;02.maj;02.lip;3;02.maj;lut.62;02.wrz;02.maj;02.sty;sty.55
+F1;17.08.2002;Sochaux;Nantes;4;2;H;1;1;D;2.375;3;lut.75;lut.54;lut.91;02.wrz;02.maj;02.wrz;02.cze;2.375;2.875;02.sie;2.375;3;2.875;lut.37;02.wrz;02.sie;02.maj;01.cze
+F1;17.08.2002;Strasbourg;Le Havre;1;1;D;1;1;D;2;2.875;03.cze;2;03.maj;03.cze;2;3;03.mar;02.lut;3;3;02.maj;3;2.875;2;02.wrz;03.cze;02.sty;sty.55
+F1;17.08.2002;Troyes;Auxerre;1;2;A;1;0;H;2.375;2.875;02.sie;02.cze;02.wrz;02.sie;02.kwi;02.wrz;02.lip;2.375;2.875;02.sie;02.kwi;02.wrz;02.wrz;02.kwi;02.wrz;lut.75;02.maj;01.cze
+F1;23.08.2002;Lille;Troyes;0;0;D;0;0;D;01.sie;03.sty;4;sty.77;mar.24;kwi.45;sty.85;02.wrz;4;1.833;3;4;1.833;03.sty;04.lut;01.sie;03.sty;4;sty.95;sty.65
+F1;24.08.2002;Ajaccio;Sedan;1;0;H;1;0;H;02.sty;3;03.lut;02.sty;03.maj;03.maj;02.lut;02.sie;03.sty;1.909;3;mar.75;02.sty;3;03.kwi;02.lut;lut.87;03.sty;02.maj;01.cze
+F1;24.08.2002;Auxerre;Guingamp;2;1;H;1;0;H;1.727;03.lut;4.333;sty.67;mar.35;05.sty;sty.65;03.lut;04.cze;1.727;03.lut;4.333;1.667;mar.25;5;sty.66;03.sty;5;01.wrz;01.lip
+F1;24.08.2002;Bordeaux;Strasbourg;1;2;A;0;1;A;01.kwi;03.cze;07.maj;sty.46;mar.85;lip.25;01.kwi;03.lip;06.maj;01.kwi;mar.75;7;01.kwi;mar.75;8;01.kwi;03.maj;8;sty.85;sty.75
+F1;24.08.2002;Lyon;Bastia;4;1;H;2;1;H;01.kwi;03.cze;07.maj;sty.41;4;lip.75;01.kwi;03.lip;06.maj;01.kwi;mar.75;7;01.kwi;mar.75;8;01.kwi;03.maj;8;01.lip;01.wrz
+F1;24.08.2002;Monaco;Sochaux;1;0;H;1;0;H;01.sie;03.sty;4;sty.86;03.lut;kwi.25;01.sie;02.wrz;04.lut;01.sie;03.lut;4;01.sie;03.sty;4.333;01.wrz;03.sty;03.cze;01.wrz;01.lip
+F1;24.08.2002;Nantes;Lens;2;2;D;2;0;H;02.lut;3;3;02.lut;03.maj;mar.35;02.mar;02.sie;02.wrz;02.sty;3;03.lut;02.lut;3;03.lut;2;3;03.kwi;02.sty;sty.62
+F1;24.08.2002;Nice;Montpellier;2;1;H;1;1;D;1.833;03.lut;mar.75;sty.97;03.sty;mar.78;2;02.wrz;03.kwi;1.909;3;mar.75;sty.85;03.lut;4;sty.66;03.mar;04.maj;sty.95;sty.65
+F1;24.08.2002;Rennes;Marseille;1;3;A;1;1;D;02.kwi;3;02.lip;lut.37;3;lut.95;02.lut;02.sie;03.sty;2.375;03.lut;02.cze;02.kwi;3;02.sie;02.maj;02.wrz;lut.62;02.maj;01.cze
+F1;25.08.2002;Le Havre;Paris SG;0;1;A;0;0;D;02.lip;3;02.kwi;03.gru;3;02.mar;02.wrz;02.sie;02.mar;02.sie;2.875;2.375;3;3;02.mar;;;;02.maj;sty.65
+F1;31.08.2002;Bastia;Rennes;3;1;H;2;1;H;1.727;03.lut;4.333;sty.72;mar.25;kwi.75;sty.75;03.sty;04.lut;1.727;03.lut;4.333;sty.75;03.lut;04.maj;sty.66;03.mar;04.maj;01.wrz;01.lip
+F1;31.08.2002;Guingamp;Bordeaux;0;0;D;0;0;D;02.maj;2.875;2.625;lut.55;03.sty;lut.65;02.cze;02.sie;02.cze;2.375;3;lut.75;02.cze;3;02.cze;lut.62;02.wrz;02.maj;sty.97;sty.65
+F1;31.08.2002;Lens;Monaco;1;0;H;1;0;H;1.727;03.lut;4.333;sty.82;mar.25;kwi.25;sty.75;03.sty;04.lut;1.727;03.lut;4.333;01.sie;03.sty;4.333;sty.72;03.lut;kwi.33;02.maj;01.cze
+F1;31.08.2002;Montpellier;Le Havre;0;0;D;0;0;D;2;3;03.kwi;01.wrz;mar.15;mar.95;2;02.wrz;03.kwi;1.833;3;4;sty.95;3;03.sie;01.wrz;3;mar.75;02.maj;01.cze
+F1;31.08.2002;Paris SG;Nice;1;1;D;0;0;D;1.533;mar.25;6;01.maj;mar.45;7;sty.45;03.cze;05.sie;1.571;mar.25;05.maj;1.533;03.mar;06.maj;sty.53;mar.25;6;sty.85;sty.75
+F1;31.08.2002;Sedan;Nantes;1;0;H;1;0;H;2.625;03.sty;2.375;02.lip;03.sty;02.maj;02.cze;02.sie;02.cze;2.625;2.875;02.maj;02.lip;3;02.maj;02.maj;02.wrz;lut.62;02.maj;01.cze
+F1;31.08.2002;Sochaux;Lyon;2;1;H;0;0;D;2.875;3;lut.25;02.sie;mar.15;lut.35;02.cze;02.sie;02.cze;lut.75;3;2.375;3;3;lut.25;02.sie;02.wrz;lut.37;sty.75;sty.85
+F1;31.08.2002;Strasbourg;Lille;2;2;D;1;0;H;02.lut;3;3;02.lut;03.sty;03.sty;02.lut;02.sie;03.sty;02.lut;3;3;lut.25;3;03.sty;02.sty;3;03.lut;02.maj;01.cze
+F1;31.08.2002;Troyes;Ajaccio;1;0;H;1;0;H;1.727;03.lut;4.333;01.sie;mar.25;kwi.25;01.wrz;02.wrz;03.sie;1.909;3;mar.75;1.833;03.sty;4;sty.83;3;4;sty.97;sty.65
+F1;01.09.2002;Marseille;Auxerre;0;0;D;0;0;D;02.lut;3;3;02.lut;03.maj;mar.15;02.lut;02.sie;03.sty;02.lut;3;3;lut.25;3;03.sty;02.sty;03.sty;03.sty;02.maj;01.cze
+F1;10.09.2002;Lyon;Lens;1;0;H;1;0;H;01.maj;03.kwi;6;sty.63;03.maj;05.maj;01.cze;03.kwi;04.cze;1.571;mar.25;05.maj;1.533;03.kwi;6;01.maj;03.kwi;6;sty.72;01.wrz
+F1;11.09.2002;Ajaccio;Montpellier;0;0;D;0;0;D;2;3;03.kwi;02.sty;03.sty;mar.32;2;02.wrz;03.kwi;02.sty;3;03.lut;02.sty;3;03.kwi;01.wrz;03.sty;03.cze;lut.15;01.cze
+F1;11.09.2002;Auxerre;Bastia;1;0;H;0;0;D;1.533;03.kwi;05.maj;sty.61;mar.45;6;sty.45;03.sie;05.kwi;01.maj;03.kwi;6;1.533;03.kwi;06.maj;01.maj;03.kwi;6;01.wrz;sty.75
+F1;11.09.2002;Bordeaux;Troyes;1;0;H;1;0;H;1.571;mar.25;05.maj;sty.65;03.mar;maj.75;01.cze;03.kwi;04.cze;1.615;mar.25;5;1.571;03.mar;6;sty.57;03.mar;05.maj;sty.92;sty.77
+F1;11.09.2002;Le Havre;Guingamp;1;2;A;1;1;D;2;3;03.kwi;lut.16;3;03.mar;2;02.wrz;03.mar;2;2.875;03.cze;02.maj;03.sty;03.mar;02.sty;02.wrz;03.mar;2;sty.65
+F1;11.09.2002;Lille;Paris SG;2;1;H;1;0;H;02.maj;2.875;2.625;02.lip;lut.95;02.lip;02.sie;02.wrz;02.mar;02.maj;2.875;2.625;02.lip;3;02.maj;lut.62;02.wrz;02.maj;02.sty;sty.56
+F1;11.09.2002;Monaco;Nantes;2;1;H;1;1;D;1.909;3;mar.75;sty.92;mar.15;mar.75;01.wrz;3;03.cze;01.sie;3;4.333;1.833;03.lut;4;sty.83;03.lut;mar.75;2;sty.86
+F1;11.09.2002;Nice;Marseille;2;0;H;0;0;D;2.375;2.875;02.sie;lut.35;03.sty;3;02.lut;02.wrz;3;2.375;2.875;02.sie;02.mar;3;3;02.kwi;02.sie;lut.87;2;01.cze
+F1;11.09.2002;Rennes;Sochaux;2;2;D;0;1;A;2.375;3;02.lip;02.kwi;3;lut.85;02.mar;02.sie;02.wrz;2.375;02.sie;2.875;02.maj;3;02.lip;02.kwi;lut.87;02.sie;2;01.cze
+F1;11.09.2002;Strasbourg;Sedan;1;1;D;1;1;D;1.909;3;mar.75;01.wrz;3;04.sty;02.sty;02.wrz;03.lut;1.909;3;mar.75;1.909;3;4;01.wrz;3;mar.75;2;sty.72
+F1;14.09.2002;Guingamp;Nice;0;0;D;0;0;D;02.sty;3;03.lut;lut.15;03.sty;mar.55;2;02.wrz;03.kwi;2;3;03.kwi;02.sty;3;03.kwi;01.wrz;3;mar.75;sty.95;sty.65
+F1;14.09.2002;Lens;Rennes;1;0;H;0;0;D;01.kwi;03.cze;07.maj;01.cze;mar.55;6;01.maj;03.maj;05.kwi;;;;01.maj;03.maj;06.maj;sty.53;mar.25;6;sty.82;01.sie
+F1;14.09.2002;Marseille;Bordeaux;2;1;H;1;0;H;02.mar;2.875;02.wrz;lut.25;3;mar.15;02.kwi;02.sie;02.sie;02.sty;3;03.lut;lut.25;2.875;03.lut;02.lut;lut.87;03.sty;02.lut;sty.55
+F1;14.09.2002;Montpellier;Lille;1;0;H;0;0;D;02.lut;3;3;lut.15;03.lut;03.mar;02.lut;02.sie;03.sty;02.sty;3;03.lut;02.sty;3;03.kwi;02.sty;lut.87;03.mar;lut.15;sty.55
+F1;14.09.2002;Nantes;Lyon;1;0;H;1;0;H;02.kwi;02.wrz;lut.75;02.maj;lut.93;3;02.kwi;02.wrz;02.lip;02.maj;2.875;2.625;02.cze;2.875;02.lip;02.maj;lut.87;lut.62;sty.85;sty.82
+F1;14.09.2002;Paris SG;Strasbourg;3;0;H;2;0;H;1.444;03.cze;06.maj;sty.52;03.cze;cze.25;sty.55;03.kwi;5;1.571;mar.25;05.maj;1.533;03.mar;06.maj;sty.57;mar.25;05.maj;01.sie;01.sie
+F1;14.09.2002;Sedan;Monaco;2;2;D;0;1;A;2.375;3;02.lip;lut.35;3;02.wrz;02.lut;02.sie;03.sty;02.lut;3;3;02.kwi;3;02.sie;02.mar;02.wrz;02.wrz;sty.95;sty.65
+F1;14.09.2002;Sochaux;Auxerre;1;1;D;1;0;H;02.mar;3;02.sie;02.mar;3;3;02.lut;02.sie;03.sty;02.sty;3;03.lut;2.375;2.875;3;02.mar;02.wrz;02.wrz;sty.95;sty.65
+F1;14.09.2002;Troyes;Le Havre;1;1;D;1;0;H;01.sie;03.sty;4;sty.95;03.sty;mar.75;01.wrz;02.wrz;03.sie;01.sie;03.lut;4;1.909;3;4;01.wrz;3;mar.75;sty.95;sty.65
+F1;15.09.2002;Bastia;Ajaccio;1;2;A;1;1;D;01.sie;3;4.333;sty.81;mar.15;kwi.35;01.wrz;02.wrz;03.sie;01.sie;03.lut;4;sty.85;3;4.333;01.wrz;3;mar.75;lut.15;sty.55
+F1;21.09.2002;Ajaccio;Sochaux;0;1;A;0;1;A;lut.25;2.875;3;lut.28;02.wrz;mar.15;02.mar;02.sie;02.wrz;;;;lut.25;3;3;02.lut;02.sie;03.lut;02.maj;01.cze
+F1;21.09.2002;Bordeaux;Lens;1;0;H;0;0;D;1.833;3;4;sty.85;03.sty;kwi.15;sty.85;03.sty;03.cze;;;;sty.85;3;04.lut;sty.83;3;4;sty.95;sty.65
+F1;21.09.2002;Le Havre;Marseille;1;3;A;0;1;A;02.kwi;3;02.lip;lut.55;lut.95;lut.72;02.cze;02.lip;02.lip;;;;02.maj;2.875;lut.75;02.cze;02.sie;02.cze;02.sty;sty.55
+F1;21.09.2002;Lille;Guingamp;2;1;H;0;0;D;02.lut;02.sie;03.lut;02.sty;3;03.kwi;02.sty;02.sie;03.mar;;;;02.sty;3;03.mar;02.sty;02.sie;03.kwi;01.wrz;01.lip
+F1;21.09.2002;Lyon;Monaco;1;3;A;0;1;A;1.727;2.875;5;01.lip;03.lut;5;01.cze;03.kwi;04.cze;;;;1.667;03.lut;5;sty.57;03.mar;05.maj;;
+F1;21.09.2002;Nice;Troyes;1;0;H;1;0;H;1.727;03.lut;4.333;sty.77;03.sty;5;01.sie;3;4;;;;1.727;03.lut;04.maj;sty.66;03.sty;5;01.wrz;01.lip
+F1;21.09.2002;Rennes;Nantes;1;0;H;0;0;D;2.625;2.875;02.maj;lut.55;lut.95;02.lip;02.cze;02.sie;02.cze;;;;02.cze;02.wrz;02.cze;02.lip;02.sie;02.maj;01.wrz;01.lip
+F1;21.09.2002;Strasbourg;Montpellier;3;2;H;1;0;H;2;3;03.kwi;02.maj;lut.95;03.cze;02.sty;02.lip;03.maj;;;;2;3;03.maj;2;lut.87;03.cze;02.maj;01.cze
+F1;22.09.2002;Paris SG;Bastia;1;1;D;0;0;D;1.444;03.cze;06.maj;sty.43;03.cze;07.maj;01.kwi;03.wrz;6;;;;01.kwi;mar.75;07.maj;sty.44;03.kwi;7;sty.95;sty.65
+F1;27.09.2002;Marseille;Ajaccio;3;1;H;2;1;H;01.maj;03.kwi;6;01.maj;03.maj;06.maj;sty.55;03.kwi;5;01.maj;03.kwi;6;sty.53;03.kwi;6;01.maj;03.kwi;6;2;sty.65
+F1;28.09.2002;Bastia;Bordeaux;2;1;H;1;0;H;02.maj;03.sty;02.maj;02.maj;03.lis;02.sie;02.lip;02.wrz;02.kwi;02.maj;lut.88;lut.62;02.maj;3;lut.63;lut.62;02.wrz;02.maj;sty.95;sty.65
+F1;28.09.2002;Guingamp;Strasbourg;2;3;A;0;1;A;1.833;03.lut;mar.75;sty.83;03.sty;04.maj;sty.85;3;03.sie;01.sie;lut.88;04.maj;sty.85;03.sty;4;01.sie;3;04.lut;01.wrz;01.lip
+F1;28.09.2002;Lens;Lille;0;0;D;0;0;D;01.sie;03.sty;4;sty.75;mar.15;kwi.75;01.sie;3;4;sty.83;3;4;01.lip;03.sty;kwi.75;01.sie;02.wrz;04.maj;02.maj;01.cze
+F1;28.09.2002;Monaco;Rennes;2;1;H;1;1;D;01.maj;03.kwi;6;sty.51;03.maj;cze.75;sty.55;03.kwi;5;sty.62;mar.25;5;01.maj;03.cze;6;01.maj;03.kwi;6;sty.85;sty.75
+F1;28.09.2002;Montpellier;Paris SG;1;1;D;1;0;H;02.maj;03.sty;02.maj;lut.65;03.lis;02.maj;02.lip;02.wrz;02.kwi;02.maj;lut.88;lut.62;02.cze;3;02.maj;lut.62;02.wrz;02.maj;02.maj;01.cze
+F1;28.09.2002;Nantes;Auxerre;1;4;A;1;3;A;;;;02.mar;03.sty;03.sty;02.mar;02.wrz;02.sie;lut.25;3;lut.88;02.mar;2.875;3;02.lut;02.wrz;03.sty;sty.95;sty.65
+F1;28.09.2002;Sedan;Le Havre;4;0;H;1;0;H;2;2.875;03.cze;sty.95;03.maj;mar.85;sty.85;3;03.sie;sty.83;3;4;2;3;03.maj;02.sty;03.sty;03.sty;02.maj;01.cze
+F1;28.09.2002;Sochaux;Nice;1;0;H;0;0;D;1.909;3;mar.75;01.wrz;mar.25;mar.75;sty.85;3;03.sie;2;3;03.kwi;2;03.sty;03.kwi;01.wrz;03.sty;03.cze;sty.95;sty.65
+F1;28.09.2002;Troyes;Lyon;1;1;D;0;0;D;02.sie;2.875;2.375;lut.65;03.sty;lut.55;02.lip;02.wrz;02.kwi;lut.62;lut.88;02.maj;02.lip;02.wrz;02.maj;lut.62;02.wrz;02.maj;01.wrz;01.lip
+F1;05.10.2002;Ajaccio;Nantes;1;0;H;0;0;D;lut.25;2.875;3;02.mar;03.sty;3;02.sty;3;03.sty;;;;02.mar;3;3;02.mar;02.wrz;02.wrz;02.maj;01.cze
+F1;05.10.2002;Le Havre;Sochaux;1;0;H;0;0;D;02.maj;2.875;2.625;lut.53;03.maj;02.wrz;02.cze;02.sie;02.cze;;;;02.maj;02.wrz;lut.75;02.maj;02.sie;02.lip;02.maj;01.cze
+F1;05.10.2002;Lille;Marseille;3;0;H;1;0;H;02.mar;3;02.sie;02.kwi;03.sty;lut.95;02.kwi;02.sie;02.sie;;;;2.375;03.sty;lut.75;lut.37;02.sie;lut.87;01.wrz;01.lip
+F1;05.10.2002;Montpellier;Lens;0;2;A;0;1;A;2.375;2.875;02.sie;02.kwi;03.maj;02.sie;02.maj;02.sie;02.lip;;;;02.kwi;02.wrz;02.wrz;02.kwi;lut.75;02.wrz;sty.95;sty.65
+F1;05.10.2002;Nice;Bastia;2;0;H;0;0;D;1.727;03.lut;4.333;sty.72;03.mar;kwi.75;sty.85;03.sty;03.cze;;;;1.727;03.lut;kwi.75;sty.72;03.lut;kwi.33;01.wrz;01.lip
+F1;05.10.2002;Rennes;Lyon;0;1;A;0;0;D;02.sie;3;02.mar;02.wrz;03.sty;02.kwi;02.sie;02.wrz;02.mar;;;;3;2.875;2.375;lut.87;02.sie;lut.37;01.wrz;01.lip
+F1;05.10.2002;Strasbourg;Troyes;2;1;H;1;1;D;01.sie;03.sty;4;01.wrz;03.maj;04.maj;2;02.sie;03.cze;;;;1.909;3;4;01.wrz;3;mar.75;01.wrz;01.lip
+F1;06.10.2002;Auxerre;Monaco;1;1;D;1;0;H;01.sie;03.sty;4;sty.88;mar.15;04.sty;sty.85;03.sty;03.cze;;;;sty.85;03.sty;4;01.sie;3;04.lut;01.sie;01.sie
+F1;06.10.2002;Bordeaux;Sedan;2;2;D;1;1;D;01.maj;03.kwi;6;sty.52;mar.55;06.maj;01.maj;03.maj;05.kwi;;;;01.maj;03.maj;06.maj;sty.44;03.kwi;7;sty.85;sty.75
+F1;06.10.2002;Paris SG;Guingamp;5;0;H;4;0;H;1.667;03.sty;5;01.cze;mar.25;05.wrz;sty.55;03.mar;05.lut;;;;01.cze;03.lut;6;sty.57;03.sty;6;01.sie;01.sie
+F1;19.10.2002;Bastia;Le Havre;3;1;H;2;0;H;1.833;3;4;sty.82;mar.15;kwi.33;sty.75;03.lut;4;01.sie;03.lut;4;01.sie;03.sty;04.lut;01.sie;03.sty;4;02.maj;sty.65
+F1;19.10.2002;Guingamp;Montpellier;3;1;H;1;0;H;1.909;3;mar.75;sty.97;3;mar.75;01.wrz;3;03.cze;sty.83;3;4;1.909;03.sty;mar.75;01.wrz;3;mar.75;02.maj;sty.65
+F1;19.10.2002;Lens;Ajaccio;1;1;D;0;1;A;1.571;mar.25;05.maj;sty.59;mar.45;6;sty.55;03.kwi;5;sty.57;mar.25;05.maj;1.533;03.kwi;6;sty.53;03.kwi;05.maj;02.maj;sty.65
+F1;19.10.2002;Lyon;Auxerre;3;0;H;1;0;H;1.909;3;mar.75;sty.87;mar.15;4;sty.85;3;03.sie;sty.83;03.lut;mar.75;01.wrz;3;4;01.wrz;3;mar.75;02.maj;sty.67
+F1;19.10.2002;Monaco;Lille;1;1;D;0;0;D;01.sie;03.sty;4;01.sie;mar.15;kwi.35;sty.75;03.lut;4;01.sie;03.lut;4;sty.75;03.sty;04.maj;01.sie;3;04.lut;02.maj;sty.65
+F1;19.10.2002;Nantes;Nice;0;0;D;0;0;D;lut.25;3;2.875;02.lut;03.sty;3;02.lut;3;02.wrz;02.sty;03.lut;3;02.sty;3;03.lut;02.lut;3;3;02.maj;sty.65
+F1;19.10.2002;Sedan;Rennes;1;3;A;0;1;A;1.727;03.sty;04.maj;sty.75;mar.25;04.maj;01.lip;03.sty;04.kwi;sty.73;03.lut;kwi.33;sty.75;03.sty;04.maj;sty.72;03.sty;04.maj;02.maj;sty.65
+F1;19.10.2002;Sochaux;Bordeaux;2;0;H;1;0;H;lut.25;3;2.875;lut.25;03.maj;mar.15;02.mar;02.sie;02.wrz;lut.25;lut.88;3;02.mar;3;02.wrz;lut.25;lut.87;3;02.maj;sty.65
+F1;19.10.2002;Troyes;Paris SG;1;2;A;1;2;A;02.lip;3;2.375;lut.92;02.wrz;02.kwi;02.wrz;02.sie;02.mar;02.sie;lut.88;lut.38;02.wrz;3;02.mar;lut.87;02.sie;02.kwi;02.maj;sty.65
+F1;20.10.2002;Marseille;Strasbourg;1;0;H;1;0;H;1.727;03.sty;04.maj;sty.78;mar.25;kwi.65;sty.75;03.lut;4;sty.73;03.lut;kwi.33;01.lip;03.lut;kwi.75;sty.66;03.sty;5;02.maj;sty.65
+F1;25.10.2002;Bordeaux;Monaco;2;2;D;1;2;A;02.sty;3;03.lut;02.sie;03.sty;mar.65;2;02.wrz;03.kwi;2;3;03.kwi;2;3;03.maj;2;3;03.kwi;02.maj;01.sie
+F1;26.10.2002;Ajaccio;Lyon;0;1;A;0;1;A;02.sie;3;02.mar;lut.92;3;lut.47;02.sie;02.wrz;02.mar;3;3;02.lut;02.wrz;3;02.mar;02.wrz;02.wrz;02.mar;sty.95;sty.65
+F1;26.10.2002;Auxerre;Rennes;1;0;H;0;0;D;1.444;03.cze;06.maj;sty.55;mar.65;cze.42;01.maj;03.maj;05.kwi;sty.57;mar.25;05.maj;01.maj;03.kwi;06.maj;sty.53;mar.25;6;01.wrz;01.lip
+F1;26.10.2002;Guingamp;Sedan;0;1;A;0;0;D;1.909;3;mar.75;sty.98;03.maj;mar.95;2;02.sie;03.cze;01.sie;03.lut;4;1.909;03.sty;mar.75;sty.83;3;4;01.wrz;01.lip
+F1;26.10.2002;Le Havre;Nantes;1;1;D;0;1;A;lut.25;2.875;3;lut.32;3;03.gru;02.sty;3;03.sty;lut.37;3;lut.75;02.mar;02.wrz;3;lut.25;lut.87;3;02.maj;01.cze
+F1;26.10.2002;Lille;Sochaux;1;0;H;0;0;D;2;2.875;03.cze;02.maj;3;mar.65;2;02.sie;03.cze;2;3;03.kwi;2;3;03.cze;01.wrz;3;mar.75;sty.95;sty.65
+F1;26.10.2002;Montpellier;Troyes;2;2;D;1;1;D;1.909;3;mar.75;02.lut;03.sty;03.lip;sty.85;3;03.sie;2;3;03.kwi;1.909;03.sty;mar.75;01.wrz;3;mar.75;02.maj;01.cze
+F1;26.10.2002;Nice;Lens;0;0;D;0;0;D;1.909;3;mar.75;02.cze;3;03.cze;02.sty;02.sie;03.mar;02.sty;3;03.lut;2;3;03.cze;02.sty;lut.87;03.mar;02.maj;01.cze
+F1;26.10.2002;Paris SG;Marseille;3;0;H;2;0;H;1.833;3;4;sty.85;3;kwi.35;sty.85;3;03.sie;sty.83;03.lut;mar.75;1.833;03.sty;4;sty.83;3;4;sty.95;sty.65
+F1;26.10.2002;Strasbourg;Bastia;2;0;H;1;0;H;1.909;3;mar.75;02.lut;3;03.sie;01.wrz;02.wrz;03.sie;sty.91;03.lut;03.maj;1.909;03.sty;mar.75;sty.83;3;4;sty.95;sty.65
+F1;02.11.2002;Bastia;Lille;1;0;H;1;0;H;02.lut;3;3;lut.15;3;03.mar;02.lut;02.sie;03.sty;02.sty;3;03.lut;02.lut;3;03.sty;02.lut;02.sie;03.lut;01.wrz;01.lip
+F1;02.11.2002;Lens;Auxerre;3;1;H;2;1;H;lut.25;3;02.wrz;02.mar;3;3;02.mar;02.sie;02.wrz;02.lut;3;3;02.lut;3;03.sty;02.lut;lut.87;03.sty;02.maj;01.cze
+F1;02.11.2002;Lyon;Nice;2;2;D;0;1;A;1.667;03.sty;5;sty.71;mar.21;5;sty.65;03.lut;04.cze;sty.67;mar.25;04.maj;1.667;03.lut;5;sty.57;03.mar;05.maj;sty.75;sty.85
+F1;02.11.2002;Marseille;Montpellier;2;0;H;1;0;H;1.533;mar.25;6;sty.56;mar.45;6;sty.55;03.mar;05.lut;sty.61;03.lut;05.maj;1.571;03.kwi;05.maj;sty.53;03.mar;6;01.wrz;01.lip
+F1;02.11.2002;Monaco;Le Havre;1;1;D;1;0;H;1.533;mar.25;6;sty.56;mar.45;6;sty.55;03.mar;05.lut;sty.57;mar.25;05.maj;1.571;03.kwi;05.maj;sty.53;03.mar;6;01.wrz;01.lip
+F1;02.11.2002;Rennes;Ajaccio;0;0;D;0;0;D;1.909;3;mar.75;2;03.maj;mar.65;01.wrz;02.wrz;03.sie;2;03.lut;03.lut;1.909;3;mar.75;01.wrz;3;mar.75;01.wrz;01.lip
+F1;02.11.2002;Sochaux;Strasbourg;2;0;H;1;0;H;1.833;3;4;sty.86;03.sty;04.lut;01.sie;3;4;01.sie;03.lut;4;sty.75;03.sty;04.maj;01.sie;03.sty;4;sty.85;sty.75
+F1;02.11.2002;Troyes;Guingamp;0;2;A;0;1;A;02.sty;3;03.lut;02.lut;3;03.lut;02.sty;02.sie;03.mar;02.lut;3;3;02.lut;3;03.sty;02.sty;3;03.lut;01.wrz;01.lip
+F1;03.11.2002;Nantes;Bordeaux;0;0;D;0;0;D;02.mar;3;02.sie;02.mar;3;3;02.kwi;02.wrz;02.lip;02.sty;3;03.lut;02.mar;02.wrz;3;lut.25;02.sie;03.sty;sty.95;sty.65
+F1;03.11.2002;Sedan;Paris SG;3;1;H;1;1;D;2.875;3;lut.25;3;3;02.mar;02.lip;02.sie;02.maj;lut.75;3;lut.37;3;02.wrz;02.mar;02.wrz;02.wrz;02.mar;01.wrz;01.lip
+F1;07.11.2002;Ajaccio;Auxerre;1;0;H;0;0;D;02.sie;2.875;2.375;lut.75;3;lut.45;02.lip;02.wrz;02.kwi;;;;lut.75;2.875;02.kwi;02.sie;02.wrz;lut.37;sty.95;sty.65
+F1;07.11.2002;Le Havre;Lyon;1;2;A;0;1;A;2.875;3;lut.25;03.sty;02.wrz;02.mar;3;02.wrz;02.lut;;;;3;2.875;lut.25;03.mar;lut.87;02.sty;02.maj;01.cze
+F1;08.11.2002;Nice;Monaco;1;0;H;1;0;H;02.sty;3;03.lut;lut.34;3;mar.16;02.kwi;02.lip;02.wrz;02.sty;3;03.lut;02.lut;3;03.lut;02.lut;02.sie;03.lut;2;01.lip
+F1;09.11.2002;Bordeaux;Rennes;2;0;H;1;0;H;sty.66;03.sty;5;sty.64;mar.45;05.kwi;01.cze;03.mar;04.sie;sty.67;03.lut;5;1.571;03.kwi;05.maj;sty.57;03.mar;05.maj;01.wrz;sty.74
+F1;09.11.2002;Guingamp;Marseille;0;0;D;0;0;D;02.maj;lut.87;lut.62;lut.65;03.lis;02.lip;02.mar;02.sie;02.wrz;02.maj;03.lut;02.maj;02.maj;3;02.lip;02.maj;02.wrz;lut.62;sty.96;01.lip
+F1;09.11.2002;Lille;Nantes;0;1;A;0;0;D;01.sie;3;04.lut;01.wrz;03.lut;04.gru;01.sie;3;4;01.sie;03.lut;4;1.833;03.sty;4;01.sie;03.sty;4;2;sty.65
+F1;09.11.2002;Montpellier;Sedan;2;0;H;1;0;H;02.lut;3;3;02.mar;03.sty;mar.28;02.kwi;02.lip;02.wrz;02.sty;3;03.lut;lut.25;2.875;03.lut;02.sty;lut.87;03.mar;2;sty.65
+F1;09.11.2002;Paris SG;Sochaux;1;1;D;0;0;D;sty.66;03.sty;5;01.lip;mar.31;maj.25;sty.65;03.lut;04.cze;sty.61;03.lut;05.maj;01.cze;03.kwi;05.maj;sty.61;03.sty;05.maj;sty.98;sty.75
+F1;09.11.2002;Strasbourg;Lens;2;0;H;1;0;H;lut.25;3;lut.87;lut.38;03.gru;3;02.mar;02.sie;02.wrz;lut.37;3;lut.75;02.mar;3;3;lut.37;lut.87;02.sie;02.maj;01.cze
+F1;09.11.2002;Troyes;Bastia;3;0;H;1;0;H;02.lut;3;3;lut.27;3;mar.15;02.sty;02.wrz;03.lut;02.kwi;03.lut;02.maj;02.lut;3;03.lut;02.sty;3;03.lut;02.maj;01.cze
+F1;14.11.2002;Monaco;Ajaccio;3;2;H;0;0;D;sty.66;03.sty;5;sty.67;03.mar;maj.35;01.lip;03.sty;04.kwi;;;;01.cze;mar.25;05.maj;sty.61;03.sty;05.maj;01.wrz;01.lip
+F1;16.11.2002;Auxerre;Nice;0;2;A;0;0;D;1.909;3;mar.75;01.wrz;03.sty;kwi.25;01.sie;3;4;01.sie;03.lut;4;1.909;3;4;01.wrz;3;mar.75;sty.91;01.lip
+F1;16.11.2002;Bastia;Guingamp;0;2;A;0;1;A;01.sie;3;04.lut;sty.85;mar.15;4;sty.85;3;03.sie;sty.91;03.lut;03.maj;sty.85;03.sty;4;01.wrz;3;mar.75;sty.91;01.lip
+F1;16.11.2002;Lyon;Bordeaux;4;2;H;1;2;A;1.727;03.sty;04.maj;sty.75;03.lut;kwi.75;01.sie;3;4;sty.67;mar.25;04.maj;01.lip;03.lut;kwi.75;sty.72;03.sty;04.maj;sty.86;sty.75
+F1;16.11.2002;Marseille;Troyes;0;0;D;0;0;D;01.maj;03.kwi;6;sty.55;mar.45;cze.65;01.maj;03.maj;05.kwi;sty.57;mar.25;05.maj;01.maj;03.kwi;06.maj;01.maj;03.mar;06.maj;sty.91;01.lip
+F1;16.11.2002;Nantes;Strasbourg;4;1;H;1;1;D;2;3;03.kwi;2;03.maj;03.cze;2;02.wrz;03.kwi;2;3;03.kwi;02.sty;3;03.mar;2;3;03.kwi;sty.95;sty.65
+F1;16.11.2002;Rennes;Le Havre;0;0;D;0;0;D;2;3;03.kwi;sty.96;03.maj;03.lip;01.wrz;3;03.cze;2;3;03.kwi;02.maj;3;03.kwi;01.wrz;lut.87;4;sty.95;sty.65
+F1;16.11.2002;Sedan;Lille;0;1;A;0;0;D;02.sty;3;03.lut;2;03.sty;mar.55;2;02.wrz;03.kwi;2;3;03.kwi;02.sty;3;mar.25;2;3;03.kwi;sty.95;sty.65
+F1;16.11.2002;Sochaux;Montpellier;0;0;D;0;0;D;1.615;mar.25;5;sty.62;03.kwi;05.cze;01.cze;03.lut;5;sty.62;mar.25;5;1.615;03.kwi;5;sty.61;03.mar;5;sty.91;01.lip
+F1;17.11.2002;Lens;Paris SG;3;2;H;1;1;D;lut.25;3;2.875;02.mar;lut.95;3;02.mar;02.sie;02.wrz;lut.38;lut.88;02.sie;02.mar;3;3;lut.25;02.sie;03.sty;sty.95;sty.65
+F1;22.11.2002;Paris SG;Nantes;0;1;A;0;1;A;1.727;03.sty;04.maj;sty.71;mar.35;05.lut;sty.65;03.lut;04.cze;;;;1.667;03.lut;5;sty.66;03.sty;5;01.wrz;sty.77
+F1;23.11.2002;Bordeaux;Ajaccio;1;0;H;1;0;H;1.667;2.875;05.maj;sty.73;03.mar;05.lut;sty.65;03.lut;04.cze;;;;1.667;03.lut;5;sty.61;03.sty;05.maj;01.wrz;01.lip
+F1;23.11.2002;Guingamp;Sochaux;2;0;H;0;0;D;02.lut;02.sie;03.lut;lut.15;3;03.mar;02.lut;02.lip;03.lut;;;;02.sty;3;mar.25;02.sty;lut.87;03.mar;02.maj;01.cze
+F1;23.11.2002;Le Havre;Auxerre;0;1;A;0;0;D;2.625;2.875;02.maj;02.lip;03.sty;lut.45;02.sie;02.sie;02.kwi;;;;lut.75;3;02.kwi;lut.62;lut.75;lut.62;02.maj;01.cze
+F1;23.11.2002;Lille;Lyon;2;1;H;0;0;D;2.625;2.875;02.maj;02.lip;03.sty;lut.45;02.cze;02.sie;02.cze;;;;2.625;3;02.maj;02.maj;02.wrz;lut.62;02.maj;01.cze
+F1;23.11.2002;Marseille;Lens;1;0;H;1;0;H;2;3;03.kwi;02.sty;03.maj;03.mar;02.lut;02.lip;03.lut;;;;02.maj;3;03.kwi;01.wrz;3;mar.75;sty.95;sty.65
+F1;23.11.2002;Montpellier;Bastia;2;2;D;2;0;H;1.833;3;4;01.wrz;3;04.sty;01.wrz;02.wrz;03.sie;;;;sty.85;03.sty;4;sty.83;3;4;02.maj;01.cze
+F1;23.11.2002;Nice;Rennes;0;0;D;0;0;D;1.444;03.maj;7;sty.53;mar.45;cze.75;sty.55;03.mar;05.lut;;;;1.444;03.cze;7;01.maj;03.kwi;6;sty.95;sty.65
+F1;23.11.2002;Troyes;Sedan;2;0;H;1;0;H;2;2.875;03.cze;2;3;03.lip;02.lut;02.lip;03.lut;;;;2;3;03.maj;2;lut.87;03.cze;02.maj;01.cze
+F1;24.11.2002;Strasbourg;Monaco;1;0;H;1;0;H;02.sty;3;03.lut;lut.15;3;mar.25;02.lut;02.lip;03.lut;;;;lut.25;3;3;02.lut;lut.87;03.sty;01.wrz;01.lip
+F1;30.11.2002;Ajaccio;Le Havre;1;2;A;1;0;H;1.833;3;4;01.wrz;3;04.sty;sty.85;02.wrz;4;01.sie;03.lut;4;1.909;3;03.sie;01.sie;3;04.lut;02.maj;01.cze
+F1;30.11.2002;Bastia;Marseille;2;0;H;0;0;D;02.maj;2.875;2.625;02.maj;02.wrz;02.sie;02.kwi;02.sie;02.sie;02.maj;03.lut;02.maj;02.kwi;3;lut.75;02.maj;02.wrz;lut.62;01.wrz;01.lip
+F1;30.11.2002;Monaco;Paris SG;3;1;H;1;1;D;02.lut;3;3;lut.25;3;03.maj;02.sty;02.sie;03.mar;02.lut;3;3;02.mar;3;2.875;02.lut;lut.87;03.sty;01.wrz;01.lip
+F1;30.11.2002;Nantes;Montpellier;3;1;H;1;0;H;1.615;mar.25;5;sty.66;mar.25;maj.25;01.lip;3;04.cze;sty.61;mar.25;5;1.615;mar.25;05.lut;sty.61;03.sty;05.maj;sty.95;sty.65
+F1;30.11.2002;Rennes;Lille;5;1;H;3;0;H;02.kwi;3;02.lip;02.kwi;3;02.sie;02.kwi;02.sie;02.sie;02.maj;03.lut;02.maj;02.maj;3;02.cze;02.maj;02.wrz;lut.62;02.maj;01.cze
+F1;30.11.2002;Sedan;Nice;3;0;H;1;0;H;2.625;2.875;02.maj;02.maj;02.wrz;02.sie;02.kwi;02.sie;02.sie;02.maj;03.lut;02.maj;2.625;3;02.maj;02.cze;02.sie;02.cze;02.maj;01.cze
+F1;30.11.2002;Sochaux;Troyes;1;0;H;0;0;D;01.sie;03.sty;4;01.lip;03.sty;maj.15;sty.75;3;04.kwi;sty.72;03.lut;kwi.33;1.727;03.sty;kwi.75;sty.66;03.sty;5;lut.15;sty.55
+F1;01.12.2002;Auxerre;Bordeaux;1;0;H;1;0;H;1.833;3;4;01.wrz;3;kwi.16;01.wrz;02.wrz;03.sie;sty.83;03.lut;mar.75;1.909;3;03.sie;01.wrz;3;mar.75;sty.95;sty.65
+F1;01.12.2002;Lens;Guingamp;1;3;A;1;1;D;01.sie;03.sty;4;sty.85;3;kwi.35;01.sie;02.wrz;04.lut;01.sie;03.lut;4;sty.85;03.sty;4;sty.83;3;4;sty.95;sty.65
+F1;01.12.2002;Lyon;Strasbourg;2;1;H;1;1;D;1.615;mar.25;5;sty.55;mar.35;06.lut;01.maj;03.kwi;05.cze;sty.57;mar.25;05.maj;1.533;03.kwi;6;;;;sty.75;sty.85
+F1;03.12.2002;Nice;Ajaccio;3;0;H;2;0;H;1.615;mar.25;5;01.lip;mar.28;maj.27;sty.65;03.sty;04.sie;sty.62;mar.25;5;1.571;03.kwi;05.maj;sty.53;03.kwi;05.maj;2;01.lip
+F1;04.12.2002;Bastia;Sedan;0;1;A;0;1;A;01.sie;03.sty;4;sty.85;03.lut;kwi.25;01.wrz;02.wrz;03.sie;01.sie;03.lut;4;01.sie;03.lut;4;01.sie;03.sty;4;sty.95;sty.65
+F1;04.12.2002;Guingamp;Nantes;2;0;H;0;0;D;02.sty;3;03.lut;lut.15;3;03.mar;02.mar;02.sie;02.wrz;02.sty;3;03.lut;02.sty;3;mar.25;lut.25;lut.87;3;sty.95;sty.65
+F1;04.12.2002;Le Havre;Bordeaux;1;0;H;0;0;D;02.maj;3;02.cze;lut.55;3;lut.65;02.cze;02.sie;02.cze;02.maj;03.lut;02.maj;02.maj;3;02.cze;lut.62;02.wrz;02.maj;sty.95;sty.65
+F1;04.12.2002;Lille;Auxerre;2;2;D;2;1;H;02.lut;3;3;lut.15;3;03.mar;02.kwi;02.sie;02.sie;02.lut;3;3;02.lut;3;03.sty;2;3;03.kwi;sty.95;sty.65
+F1;04.12.2002;Marseille;Sochaux;1;0;H;1;0;H;01.sie;03.sty;4;01.sie;03.sty;kwi.75;sty.75;3;04.kwi;sty.73;03.lut;kwi.33;1.727;03.lut;04.maj;sty.66;03.sty;5;sty.95;sty.65
+F1;04.12.2002;Montpellier;Monaco;1;2;A;1;1;D;2.375;3;02.lip;02.maj;3;02.lip;02.cze;02.sie;02.cze;02.maj;03.lut;02.maj;02.maj;3;02.cze;lut.37;02.wrz;02.sie;sty.95;sty.65
+F1;04.12.2002;Paris SG;Lyon;2;0;H;1;0;H;2.375;2.875;02.sie;02.kwi;3;lut.85;02.mar;02.sie;02.wrz;lut.38;3;lut.75;02.kwi;02.wrz;02.sie;02.mar;02.sie;3;01.sie;01.sie
+F1;04.12.2002;Strasbourg;Rennes;1;3;A;0;0;D;1.667;03.sty;5;sty.75;mar.25;kwi.75;sty.65;03.sty;04.sie;sty.67;mar.25;04.maj;1.667;03.lut;5;sty.61;03.mar;5;01.wrz;01.lip
+F1;04.12.2002;Troyes;Lens;0;0;D;0;0;D;2.375;3;02.lip;lut.45;3;lut.75;02.maj;02.sie;02.lip;02.maj;03.lut;02.maj;02.kwi;3;lut.75;02.kwi;02.wrz;lut.75;sty.95;sty.65
+F1;14.12.2002;Sedan;Marseille;1;2;A;0;1;A;lut.25;3;2.875;02.kwi;3;02.sie;02.lut;02.sie;03.sty;lut.38;03.lut;02.cze;2.375;3;lut.75;02.mar;02.wrz;02.wrz;01.wrz;01.lip
+F1;14.12.2002;Sochaux;Bastia;2;0;H;2;0;H;1.727;03.sty;04.maj;01.lip;03.mar;04.lip;01.lip;03.sty;04.kwi;sty.73;03.lut;kwi.33;1.667;03.lut;5;sty.61;03.sty;05.maj;sty.95;sty.65
+F1;15.12.2002;Ajaccio;Lille;2;2;D;1;2;A;2.375;2.875;02.sie;lut.35;3;02.wrz;02.kwi;02.sie;02.sie;lut.38;03.lut;02.cze;2.375;3;lut.75;lut.37;02.sie;02.wrz;02.maj;01.cze
+F1;15.12.2002;Auxerre;Strasbourg;0;0;D;0;0;D;1.667;03.sty;5;sty.65;mar.35;5;01.cze;03.mar;04.sie;sty.62;mar.25;5;1.667;03.lut;5;sty.53;mar.25;6;01.wrz;01.lip
+F1;15.12.2002;Bordeaux;Nice;4;0;H;2;0;H;02.sty;3;03.lut;02.sty;03.sty;03.mar;2;02.wrz;03.kwi;02.sty;03.lut;3;02.sty;3;mar.25;02.sty;lut.87;03.mar;sty.95;sty.65
+F1;15.12.2002;Lens;Le Havre;1;0;H;1;0;H;1.727;03.sty;04.maj;sty.75;03.lut;kwi.55;01.lip;03.sty;04.kwi;sty.62;mar.25;5;1.727;03.lut;04.maj;sty.66;03.sty;5;sty.85;sty.75
+F1;15.12.2002;Lyon;Montpellier;1;1;D;0;0;D;1.333;4;8;sty.35;04.lut;8;01.kwi;03.lip;06.maj;sty.36;mar.75;8;1.333;4.333;07.maj;sty.36;mar.75;8;01.lip;01.wrz
+F1;15.12.2002;Monaco;Guingamp;4;0;H;1;0;H;2;3;03.kwi;sty.95;03.sty;mar.75;01.wrz;3;03.cze;2;3;03.kwi;2;3;03.maj;2;3;03.kwi;01.sie;01.sie
+F1;15.12.2002;Nantes;Troyes;2;1;H;2;1;H;1.667;03.sty;5;sty.65;03.mar;maj.15;sty.65;03.lut;04.cze;sty.57;mar.25;05.maj;1.615;mar.25;maj.25;sty.61;03.sty;05.maj;01.wrz;01.lip
+F1;15.12.2002;Rennes;Paris SG;1;0;H;0;0;D;02.maj;03.sty;02.maj;lut.55;3;lut.65;02.lip;02.wrz;02.kwi;02.maj;03.lut;02.maj;02.maj;3;2.625;02.maj;02.wrz;lut.62;sty.85;sty.75
+F1;19.12.2002;Paris SG;Bordeaux;1;1;D;1;1;D;1.833;3;4;sty.83;03.sty;kwi.25;;;;;;;1.833;03.sty;4;sty.83;3;4;sty.92;sty.73
+F1;20.12.2002;Bastia;Nantes;3;1;H;1;0;H;02.mar;3;02.sie;lut.41;mar.14;lut.86;02.lut;02.wrz;3;lut.25;03.lut;lut.75;02.mar;3;2.875;lut.25;3;lut.87;02.maj;01.cze
+F1;20.12.2002;Guingamp;Ajaccio;3;1;H;3;1;H;1.727;03.sty;04.maj;sty.73;mar.25;maj.25;01.cze;03.lut;5;sty.62;mar.25;5;1.667;03.lut;5;sty.61;03.sty;05.maj;sty.85;sty.91
+F1;20.12.2002;Lille;Le Havre;1;0;H;0;0;D;1.727;03.sty;04.maj;sty.75;mar.24;5;01.lip;03.sty;04.kwi;sty.73;03.lut;kwi.33;1.727;03.lut;04.maj;sty.72;03.sty;04.maj;sty.95;sty.73
+F1;20.12.2002;Marseille;Monaco;1;1;D;0;1;A;2;3;03.kwi;02.cze;03.maj;03.lip;sty.85;3;03.sie;sty.91;3;mar.75;2;3;03.maj;01.wrz;lut.87;4;2;sty.67
+F1;20.12.2002;Sedan;Lyon;1;1;D;0;0;D;2.625;2.875;02.maj;03.sty;03.maj;lut.45;02.maj;3;02.maj;02.maj;mar.25;lut.38;2.625;3;02.maj;lut.62;02.wrz;02.maj;01.wrz;sty.94
+F1;20.12.2002;Sochaux;Lens;3;0;H;0;0;D;1.909;3;mar.75;lut.17;03.sty;mar.46;02.lut;02.sie;03.sty;2;3;03.kwi;sty.85;03.sty;4;2;3;03.kwi;lut.15;sty.52
+F1;20.12.2002;Strasbourg;Nice;0;0;D;0;0;D;lut.25;3;2.875;lut.34;lut.97;03.sty;02.sty;02.sie;03.mar;02.sty;3;03.lut;lut.25;2.875;03.sty;02.lut;3;3;sty.96;sty.83
+F1;20.12.2002;Troyes;Rennes;0;1;A;0;0;D;lut.25;3;2.875;02.mar;03.maj;mar.15;02.sty;02.sie;03.mar;lut.38;3;lut.75;lut.25;2.875;03.sty;02.lut;3;3;2;sty.74
+F1;10.01.2003;Lyon;Marseille;1;0;H;1;0;H;1.909;3;mar.75;sty.95;03.sty;mar.75;sty.85;3;03.sie;01.wrz;03.lut;03.maj;2;3;03.cze;01.wrz;03.sty;03.cze;01.sie;sty.81
+F1;11.01.2003;Ajaccio;Paris SG;0;0;D;0;0;D;02.maj;03.sty;02.maj;lut.75;03.maj;lut.45;02.wrz;3;02.lut;lut.62;lut.87;02.maj;02.lip;03.sty;2.375;lut.62;02.wrz;02.maj;sty.95;sty.65
+F1;11.01.2003;Auxerre;Troyes;1;0;H;1;0;H;1.571;mar.25;05.maj;01.cze;mar.25;maj.85;01.cze;03.mar;04.sie;sty.44;03.cze;06.maj;1.571;mar.25;6;sty.57;03.mar;05.maj;01.wrz;01.lip
+F1;11.01.2003;Bordeaux;Montpellier;3;1;H;1;1;D;1.615;mar.25;5;01.cze;03.kwi;05.maj;sty.55;03.kwi;5;01.maj;03.kwi;6;1.571;mar.25;6;;;;01.wrz;01.lip
+F1;11.01.2003;Monaco;Bastia;0;0;D;0;0;D;1.571;mar.25;05.maj;sty.55;03.kwi;06.sty;sty.55;03.kwi;5;01.maj;03.cze;05.maj;1.571;mar.25;6;sty.57;03.mar;05.maj;01.sie;01.sie
+F1;11.01.2003;Nice;Lille;2;0;H;0;0;D;1.909;3;mar.75;01.wrz;mar.15;mar.85;2;02.wrz;03.kwi;01.sie;03.lut;4;01.sie;03.lut;4;01.wrz;03.sty;03.cze;sty.95;sty.65
+F1;11.01.2003;Rennes;Guingamp;2;1;H;1;0;H;02.mar;3;02.sie;02.mar;03.maj;lut.95;02.lut;02.wrz;3;lut.37;03.lut;02.cze;2.375;3;lut.75;02.mar;3;02.sie;sty.95;sty.65
+F1;14.01.2003;Marseille;Rennes;2;0;H;2;0;H;1.727;03.lut;4.333;sty.65;03.mar;kwi.95;01.lip;03.lut;04.lut;sty.67;mar.25;04.maj;1.615;mar.25;5;sty.66;03.mar;04.maj;01.wrz;01.lip
+F1;15.01.2003;Bastia;Lyon;2;0;H;0;0;D;02.maj;03.sty;02.maj;02.cze;03.maj;02.maj;02.maj;3;02.maj;02.kwi;mar.25;02.maj;02.cze;3;02.maj;02.maj;02.wrz;lut.62;01.wrz;01.lip
+F1;15.01.2003;Guingamp;Auxerre;0;2;A;0;1;A;lut.25;2.875;3;02.lut;lut.95;mar.15;02.mar;02.wrz;02.sie;lut.25;03.lut;lut.75;02.lut;03.sty;3;02.lut;03.sty;lut.87;sty.95;sty.65
+F1;15.01.2003;Montpellier;Nice;2;2;D;2;1;H;2.625;2.875;02.maj;lut.55;3;lut.55;02.cze;02.sie;02.cze;lut.62;lut.88;02.maj;lut.75;3;2.375;lut.62;02.wrz;02.maj;02.maj;01.cze
+F1;15.01.2003;Paris SG;Le Havre;1;0;H;1;0;H;1.571;mar.25;05.maj;sty.55;03.mar;maj.85;sty.55;03.mar;05.lut;sty.57;mar.25;05.maj;1.571;mar.25;6;sty.57;03.mar;05.maj;sty.85;sty.75
+F1;15.01.2003;Sedan;Ajaccio;1;1;D;1;1;D;01.sie;03.sty;4;sty.75;03.sty;04.cze;sty.65;03.mar;04.kwi;01.sie;03.lut;4;01.sie;03.sty;04.lut;sty.66;03.sty;5;sty.95;sty.65
+F1;15.01.2003;Sochaux;Monaco;0;0;D;0;0;D;2;3;03.kwi;02.maj;lut.95;03.maj;02.sty;02.wrz;03.lut;02.sty;03.lut;3;02.sty;3;mar.25;2;3;03.kwi;;
+F1;18.01.2003;Le Havre;Strasbourg;1;1;D;0;1;A;lut.25;3;2.875;02.lut;3;mar.15;02.lut;02.wrz;3;;;;02.lut;3;03.sty;02.sty;3;03.lut;sty.95;sty.65
+F1;18.01.2003;Lens;Sedan;4;0;H;3;0;H;1.727;03.lut;4.333;01.lip;03.lut;04.wrz;sty.75;03.sty;04.lut;;;;1.727;03.lut;04.maj;sty.72;03.lut;kwi.33;02.maj;01.cze
+F1;18.01.2003;Montpellier;Auxerre;0;0;D;0;0;D;02.lip;3;02.kwi;lut.85;03.maj;lut.35;02.sie;02.sie;02.kwi;;;;2.875;3;02.mar;02.wrz;02.wrz;02.mar;sty.95;sty.65
+F1;22.01.2003;Ajaccio;Troyes;1;0;H;1;0;H;01.wrz;3;mar.75;sty.91;03.sty;03.sie;02.sty;02.sie;03.mar;sty.91;3;mar.75;sty.85;03.sty;4;01.wrz;03.sty;03.cze;02.maj;01.cze
+F1;21.01.2003;Auxerre;Marseille;0;0;D;0;0;D;01.sie;3;kwi.33;sty.83;mar.25;4;01.wrz;02.wrz;03.sie;sty.91;03.lut;03.maj;sty.91;03.sty;mar.75;01.sie;03.sty;4;02.lut;sty.55
+F1;22.01.2003;Bordeaux;Guingamp;4;2;H;2;0;H;sty.83;3;4;01.sie;03.sty;kwi.35;01.lip;03.sty;04.kwi;sty.91;03.lut;03.maj;sty.85;03.sty;4;01.sie;03.sty;4;sty.85;sty.75
+F1;22.01.2003;Le Havre;Montpellier;1;0;H;0;0;D;01.wrz;3;mar.75;01.wrz;03.sty;03.wrz;2;02.wrz;03.kwi;2;3;03.kwi;sty.91;03.sty;mar.75;01.sie;03.sty;4;02.sty;sty.57
+F1;22.01.2003;Lille;Strasbourg;0;1;A;0;0;D;01.sie;03.sty;4;01.sie;03.lut;04.lut;sty.85;02.wrz;4;01.sie;03.lut;4;sty.85;03.sty;4;sty.72;03.lut;kwi.33;sty.92;sty.67
+F1;22.01.2003;Lyon;Sochaux;4;1;H;3;0;H;sty.61;mar.25;5;sty.65;03.mar;05.sty;01.cze;03.lut;5;sty.62;mar.25;5;sty.62;mar.25;maj.25;sty.61;03.mar;5;01.wrz;01.lip
+F1;22.01.2003;Monaco;Lens;1;1;D;0;1;A;01.sie;3;04.maj;01.sie;03.sty;kwi.35;01.sie;02.wrz;04.lut;01.sie;03.lut;4;sty.75;03.lut;kwi.33;01.sie;03.sty;4;sty.95;sty.65
+F1;22.01.2003;Nantes;Sedan;4;1;H;0;0;D;sty.66;03.sty;5;01.lip;03.mar;kwi.65;sty.75;03.sty;04.lut;sty.73;03.lut;kwi.33;sty.73;03.lut;04.maj;sty.66;03.mar;04.maj;01.wrz;01.lip
+F1;22.01.2003;Nice;Paris SG;0;0;D;0;0;D;02.sty;3;03.lut;lut.15;03.maj;mar.15;02.mar;02.sie;02.wrz;02.sty;3;03.lut;02.sty;3;mar.25;02.sty;3;03.lut;02.sty;sty.57
+F1;22.01.2003;Rennes;Bastia;0;1;A;0;0;D;sty.72;03.lut;kwi.33;01.lip;03.mar;kwi.65;01.sie;02.wrz;04.lut;sty.83;03.kwi;03.maj;sty.83;03.sty;4;sty.66;03.mar;04.maj;sty.95;sty.65
+F1;28.01.2003;Marseille;Nice;2;0;H;1;0;H;1.833;3;4;sty.85;03.sty;04.lut;01.sie;3;4;sty.91;3;mar.75;sty.85;03.sty;4;sty.72;03.sty;04.maj;sty.95;sty.65
+F1;29.01.2003;Bastia;Auxerre;2;0;H;0;0;D;2.375;2.875;02.sie;02.kwi;03.sty;lut.75;02.kwi;02.wrz;02.lip;02.kwi;mar.25;02.maj;2.375;3;02.sie;lut.25;3;lut.87;01.wrz;01.lip
+F1;29.01.2003;Guingamp;Le Havre;1;2;A;0;0;D;1.727;03.sty;04.maj;01.lip;03.sty;maj.15;01.sie;3;4;sty.72;03.lut;kwi.33;1.727;03.lut;04.maj;sty.66;03.sty;5;02.maj;01.cze
+F1;29.01.2003;Lens;Lyon;2;2;D;2;2;D;02.kwi;2.875;02.sie;lut.35;03.maj;lut.85;02.mar;02.wrz;02.sie;lut.37;3;lut.75;02.mar;03.sty;02.sie;02.mar;3;02.sie;01.wrz;01.lip
+F1;29.01.2003;Montpellier;Ajaccio;0;1;A;0;0;D;2;3;03.kwi;2;03.maj;03.cze;02.sty;02.cze;03.cze;2;3;03.kwi;2;3;03.cze;01.wrz;3;mar.75;sty.95;sty.65
+F1;29.01.2003;Nantes;Monaco;0;2;A;0;1;A;02.sty;3;03.lut;lut.15;3;03.mar;02.lut;02.sie;03.sty;02.sty;03.lut;3;02.lut;3;03.sty;2;lut.87;03.cze;sty.85;sty.75
+F1;29.01.2003;Paris SG;Lille;1;0;H;0;0;D;1.727;03.sty;04.maj;01.lip;03.sty;maj.15;01.lip;03.sty;04.kwi;sty.61;mar.25;5;1.615;03.lut;05.maj;sty.72;02.wrz;5;01.wrz;01.lip
+F1;29.01.2003;Sedan;Strasbourg;2;1;H;2;0;H;02.lut;3;3;lut.15;3;03.mar;2;3;03.mar;02.sty;03.lut;3;02.lut;3;03.sty;02.sty;3;03.lut;02.maj;01.cze
+F1;29.01.2003;Sochaux;Rennes;1;0;H;1;0;H;1.727;03.sty;04.maj;sty.75;03.sty;kwi.75;01.lip;03.sty;04.kwi;sty.73;03.kwi;4;1.667;03.lut;5;sty.72;03.sty;04.maj;sty.95;sty.65
+F1;29.01.2003;Troyes;Bordeaux;0;1;A;0;1;A;2.625;2.875;02.maj;lut.65;3;lut.55;02.wrz;02.sie;02.mar;lut.75;03.lut;lut.25;02.cze;3;02.maj;lut.62;02.wrz;02.maj;02.maj;01.cze
+F1;01.02.2003;Ajaccio;Bastia;1;1;D;1;0;H;lut.25;lut.87;3;lut.25;lut.95;mar.15;02.lut;02.sie;03.sty;lut.37;3;lut.75;lut.25;lut.88;03.sty;lut.25;3;lut.87;02.sty;sty.55
+F1;01.02.2003;Auxerre;Sochaux;2;0;H;1;0;H;sty.72;lut.87;5;sty.75;03.sty;kwi.75;sty.65;03.sty;04.sie;sty.66;mar.25;04.maj;sty.75;03.sty;04.maj;sty.66;03.sty;5;02.sty;sty.55
+F1;01.02.2003;Le Havre;Troyes;1;0;H;0;0;D;01.sie;3;kwi.33;01.sie;03.sty;04.maj;sty.85;3;03.sie;01.wrz;3;mar.75;sty.75;03.sty;04.maj;sty.83;3;4;02.sty;sty.55
+F1;01.02.2003;Lyon;Nantes;0;0;D;0;0;D;sty.66;mar.25;04.maj;sty.65;03.mar;maj.15;01.cze;03.lut;5;sty.66;mar.25;04.maj;01.cze;mar.25;05.maj;sty.66;03.sty;5;01.sie;01.sie
+F1;01.02.2003;Monaco;Sedan;3;0;H;2;0;H;sty.66;lut.87;05.maj;01.cze;mar.35;maj.55;01.cze;03.lut;5;sty.61;mar.25;5;01.cze;03.lut;05.maj;sty.57;03.mar;05.maj;sty.82;sty.75
+F1;01.02.2003;Nice;Guingamp;1;0;H;1;0;H;sty.72;03.lut;kwi.33;01.sie;03.lut;kwi.25;01.sie;3;4;sty.83;03.lut;mar.75;sty.75;03.sty;04.maj;sty.83;03.lut;mar.75;sty.82;sty.75
+F1;01.02.2003;Rennes;Lens;1;1;D;1;1;D;lut.25;3;lut.87;02.mar;3;3;02.mar;02.sie;02.wrz;02.sty;3;03.lut;lut.25;3;3;02.sty;lut.87;03.mar;sty.95;sty.65
+F1;01.02.2003;Strasbourg;Paris SG;0;1;A;0;0;D;02.maj;lut.87;lut.62;lut.55;3;lut.65;02.cze;02.sie;02.cze;lut.37;3;lut.75;02.maj;3;02.cze;02.mar;02.wrz;02.wrz;sty.88;01.lip
+F1;02.02.2003;Bordeaux;Marseille;3;1;H;0;0;D;02.lut;3;3;02.maj;3;mar.55;01.wrz;3;03.cze;2;03.lut;03.lut;02.lut;3;03.sty;2;3;03.kwi;sty.82;sty.75
+F1;04.02.2003;Monaco;Lyon;2;0;H;1;0;H;02.sty;3;03.lut;lut.18;3;03.lut;2;3;03.mar;02.lut;3;3;02.lut;3;03.sty;02.lut;3;3;sty.75;sty.85
+F1;05.02.2003;Bastia;Paris SG;1;0;H;1;0;H;2.375;3;02.lip;02.mar;3;3;02.mar;02.wrz;02.sie;lut.25;3;lut.88;02.mar;3;2.875;lut.25;3;lut.87;sty.95;sty.65
+F1;05.02.2003;Lens;Bordeaux;3;3;D;3;1;H;lut.25;02.wrz;3;lut.18;3;03.lut;02.mar;02.sie;02.wrz;lut.38;3;lut.75;02.lut;3;03.sty;02.sty;3;03.lut;sty.95;sty.65
+F1;05.02.2003;Marseille;Le Havre;2;0;H;1;0;H;01.maj;03.kwi;6;01.maj;mar.55;06.maj;sty.55;03.mar;05.lut;01.maj;03.kwi;6;01.maj;03.kwi;06.maj;01.maj;03.mar;06.maj;01.wrz;01.lip
+F1;05.02.2003;Montpellier;Strasbourg;2;1;H;1;0;H;02.kwi;3;02.lip;lut.35;lut.95;lut.95;02.lut;02.sie;03.sty;lut.38;3;lut.75;2.375;3;02.sie;lut.37;02.wrz;02.sie;02.maj;01.cze
+F1;05.02.2003;Nantes;Rennes;1;0;H;0;0;D;1.727;03.lut;4.333;sty.75;mar.15;kwi.65;01.lip;03.sty;04.kwi;sty.73;03.lut;kwi.33;1.727;03.lut;04.maj;sty.72;mar.25;04.lut;sty.95;sty.65
+F1;05.02.2003;Sedan;Auxerre;1;2;A;1;0;H;2.625;2.875;02.maj;02.cze;lut.92;lut.65;02.cze;02.sie;02.cze;02.maj;03.lut;02.maj;02.maj;3;02.cze;02.cze;02.sie;02.cze;01.wrz;01.lip
+F1;05.02.2003;Troyes;Nice;1;0;H;1;0;H;02.lip;3;2.375;lut.85;02.wrz;lut.45;02.lip;02.wrz;02.kwi;lut.75;03.lut;lut.25;02.sie;3;2.375;lut.62;02.wrz;02.maj;02.maj;01.cze
+F1;08.02.2003;Ajaccio;Marseille;0;2;A;0;1;A;lut.75;02.sie;02.maj;lut.78;3;lut.43;02.lip;02.sie;02.maj;02.maj;03.lut;02.maj;2.875;2.875;2.375;lut.62;02.wrz;02.maj;lut.15;sty.55
+F1;08.02.2003;Bordeaux;Bastia;0;2;A;0;1;A;1.667;mar.25;04.maj;sty.65;mar.35;5;01.cze;03.lut;5;01.maj;mar.25;06.maj;1.667;03.lut;5;sty.61;03.mar;5;02.maj;01.cze
+F1;08.02.2003;Le Havre;Sedan;2;1;H;1;1;D;1.909;3;mar.75;sty.95;03.maj;03.sie;2;02.wrz;03.kwi;2;3;03.kwi;1.909;3;03.sie;sty.83;3;4;01.wrz;01.lip
+F1;08.02.2003;Lille;Lens;0;2;A;0;1;A;02.lut;3;3;lut.23;3;03.sty;02.mar;02.lip;3;02.lut;3;3;lut.25;3;3;lut.25;lut.87;3;lut.15;sty.55
+F1;08.02.2003;Lyon;Troyes;0;0;D;0;0;D;1.333;4;8;sty.38;4;07.sie;01.kwi;03.lip;06.maj;sty.25;04.maj;10;01.kwi;mar.75;07.maj;sty.36;mar.75;8;sty.85;sty.75
+F1;08.02.2003;Nice;Sochaux;2;2;D;0;1;A;01.sie;3;04.lut;sty.87;mar.15;4;01.wrz;02.wrz;03.sie;sty.66;mar.25;04.maj;sty.75;03.sty;04.maj;sty.72;03.sty;04.maj;01.wrz;01.lip
+F1;08.02.2003;Paris SG;Montpellier;1;3;A;1;2;A;01.kwi;03.cze;07.maj;sty.45;mar.65;07.lut;01.maj;03.kwi;05.cze;sty.25;04.maj;10;1.444;03.cze;7;01.maj;03.lut;7;01.sie;01.sie
+F1;08.02.2003;Rennes;Monaco;0;0;D;0;0;D;02.lip;3;2.375;02.lip;3;02.maj;02.lip;02.sie;02.maj;02.maj;03.lut;02.maj;02.sie;02.wrz;02.kwi;lut.62;02.wrz;02.maj;02.maj;01.cze
+F1;08.02.2003;Strasbourg;Guingamp;3;1;H;0;0;D;2;3;03.kwi;2;mar.15;03.maj;2;02.wrz;03.kwi;02.sty;03.lut;3;02.sty;3;03.mar;01.wrz;03.sty;03.cze;01.sie;01.sie
+F1;09.02.2003;Auxerre;Nantes;0;1;A;0;1;A;1.667;mar.25;04.maj;sty.72;mar.25;kwi.65;sty.65;03.lut;04.cze;01.sie;03.lut;4;1.667;03.mar;kwi.75;sty.66;03.mar;04.maj;01.wrz;01.lip
+F1;15.02.2003;Nantes;Sochaux;0;1;A;0;0;D;01.sie;03.sty;4;01.wrz;03.sty;4;sty.75;03.sty;04.lut;;;;1.833;03.sty;4;sty.72;03.sty;04.maj;sty.95;sty.65
+F1;19.02.2003;Troyes;Lille;2;0;H;1;0;H;02.sty;3;03.lut;lut.15;3;03.mar;02.lut;3;02.wrz;;;;02.sty;3;mar.25;02.sty;3;03.lut;lut.15;sty.55
+F1;22.02.2003;Bastia;Nice;1;1;D;1;0;H;01.sie;03.sty;4;sty.83;03.lut;04.sty;sty.75;03.sty;04.lut;01.wrz;03.lut;03.maj;01.sie;03.lut;4;sty.72;03.lut;kwi.33;02.maj;01.cze
+F1;22.02.2003;Guingamp;Paris SG;3;2;H;0;1;A;02.kwi;3;02.lip;lut.55;3;lut.65;02.cze;02.sie;02.cze;02.maj;03.lut;02.maj;02.maj;3;2.625;02.lip;3;lut.37;02.maj;01.cze
+F1;22.02.2003;Lens;Montpellier;4;0;H;2;0;H;1.667;03.sty;5;sty.68;03.lut;05.lut;01.cze;03.lut;5;01.maj;03.kwi;6;1.667;03.lut;5;sty.61;03.mar;5;sty.85;sty.75
+F1;22.02.2003;Lyon;Rennes;4;1;H;2;1;H;1.533;mar.25;6;sty.58;mar.45;maj.65;sty.55;03.mar;05.lut;sty.44;03.cze;06.maj;1.533;03.maj;05.maj;sty.53;mar.25;6;01.wrz;01.lip
+F1;22.02.2003;Marseille;Lille;2;0;H;1;0;H;01.maj;03.kwi;6;sty.58;mar.45;05.cze;sty.55;03.mar;05.lut;sty.44;03.cze;06.maj;1.533;03.maj;05.maj;01.maj;03.kwi;6;02.maj;01.cze
+F1;22.02.2003;Nantes;Ajaccio;1;0;H;0;0;D;1.615;mar.25;5;sty.68;03.lut;05.lut;01.cze;03.lut;5;sty.66;mar.25;04.maj;1.615;03.kwi;5;sty.61;03.sty;05.maj;sty.95;sty.65
+F1;22.02.2003;Sedan;Bordeaux;0;1;A;0;1;A;02.maj;03.sty;02.maj;02.cze;03.maj;lut.55;02.cze;02.sie;02.cze;02.maj;03.lut;02.maj;02.cze;3;02.maj;02.maj;03.sty;02.maj;sty.85;sty.75
+F1;22.02.2003;Sochaux;Le Havre;1;0;H;0;0;D;1.727;03.sty;04.maj;sty.73;mar.25;04.cze;01.lip;3;04.cze;sty.66;mar.25;04.maj;1.727;03.lut;04.maj;sty.66;03.sty;5;02.maj;01.cze
+F1;22.02.2003;Troyes;Strasbourg;1;0;H;1;0;H;02.lut;3;3;02.lut;3;03.lut;02.sty;02.wrz;03.lut;02.lut;3;3;02.sty;3;mar.25;02.sty;3;03.lut;lut.15;sty.55
+F1;23.02.2003;Monaco;Auxerre;3;1;H;1;0;H;1.909;3;mar.75;sty.95;03.sty;mar.75;01.wrz;3;03.cze;2;3;03.kwi;1.909;03.sty;mar.75;01.wrz;03.sty;03.cze;sty.95;sty.65
+F1;28.02.2003;Nice;Nantes;1;1;D;1;0;H;2;3;03.kwi;2;mar.15;03.maj;02.lut;02.sie;03.sty;01.wrz;03.lut;03.maj;1.909;03.sty;mar.75;2;3;03.kwi;lut.25;01.maj
+F1;01.03.2003;Ajaccio;Lens;0;0;D;0;0;D;2.375;03.sty;2.625;02.maj;03.sty;lut.65;02.cze;02.sie;02.cze;02.maj;lut.87;lut.62;02.maj;3;02.cze;02.cze;02.sie;02.cze;lut.15;sty.55
+F1;01.03.2003;Bordeaux;Sochaux;2;0;H;2;0;H;1.833;3;4;01.sie;03.sty;04.maj;01.lip;03.sty;04.kwi;sty.72;03.lut;kwi.33;01.sie;03.sty;04.lut;01.sie;03.sty;4;02.maj;01.cze
+F1;01.03.2003;Le Havre;Bastia;2;0;H;1;0;H;02.lut;3;3;02.mar;03.sty;02.wrz;02.mar;02.wrz;02.sie;02.kwi;mar.25;02.maj;lut.25;03.sty;2.875;lut.25;3;lut.87;lut.15;sty.55
+F1;01.03.2003;Lille;Monaco;1;3;A;0;0;D;2.625;03.sty;2.375;02.lip;03.sty;lut.45;02.sie;02.sie;02.kwi;lut.75;3;lut.37;lut.75;3;02.kwi;02.sie;3;02.mar;02.maj;01.cze
+F1;01.03.2003;Montpellier;Guingamp;2;0;H;1;0;H;02.lut;3;3;lut.25;03.sty;3;02.lut;02.sie;03.sty;lut.25;03.lut;lut.75;02.mar;03.sty;02.sie;02.mar;3;02.sie;sty.95;sty.65
+F1;01.03.2003;Paris SG;Troyes;4;2;H;1;2;A;1.615;mar.25;5;01.cze;03.mar;maj.75;01.maj;03.kwi;05.cze;sty.53;03.kwi;05.maj;1.571;03.mar;05.maj;sty.61;03.mar;5;02.maj;01.cze
+F1;01.03.2003;Rennes;Sedan;1;0;H;0;0;D;1.833;3;4;sty.85;mar.15;04.sty;sty.75;03.sty;04.lut;01.wrz;03.lut;03.maj;sty.85;03.sty;4;sty.83;3;4;02.maj;01.cze
+F1;01.03.2003;Strasbourg;Marseille;0;0;D;0;0;D;2.625;2.875;02.maj;lut.65;03.sty;02.maj;02.lip;02.sie;02.maj;lut.62;lut.87;02.maj;lut.75;3;02.kwi;lut.75;02.wrz;02.kwi;sty.95;sty.65
+F1;02.03.2003;Auxerre;Lyon;1;2;A;0;2;A;02.lut;3;3;02.lut;03.sty;03.sty;02.mar;02.sie;02.wrz;lut.25;3;lut.87;lut.25;3;3;02.lut;3;3;02.maj;01.cze
+F1;08.03.2003;Bastia;Strasbourg;1;1;D;1;0;H;1.667;mar.25;04.maj;sty.72;mar.25;kwi.65;sty.65;03.lut;04.cze;sty.57;mar.25;05.maj;1.727;03.lut;04.maj;sty.66;03.mar;04.maj;lut.15;sty.55
+F1;08.03.2003;Lens;Nice;0;0;D;0;0;D;1.833;3;4;sty.78;mar.15;04.maj;01.lip;03.sty;04.kwi;sty.83;3;4;1.833;3;04.lut;sty.72;03.sty;04.maj;sty.85;sty.75
+F1;08.03.2003;Lyon;Ajaccio;3;1;H;2;1;H;1.333;4;8;01.kwi;mar.85;8;sty.35;4;7;01.kwi;mar.75;7;01.kwi;mar.75;07.maj;01.kwi;03.cze;07.maj;01.sie;01.sie
+F1;08.03.2003;Monaco;Bordeaux;0;1;A;0;0;D;1.909;3;mar.75;sty.82;03.mar;mar.95;01.wrz;3;03.cze;01.wrz;3;mar.75;01.wrz;3;4;01.sie;03.sty;4;sty.95;sty.65
+F1;08.03.2003;Nantes;Le Havre;2;0;H;1;0;H;1.667;mar.25;04.maj;sty.72;mar.25;04.cze;sty.65;03.lut;04.cze;sty.72;03.lut;kwi.33;1.727;03.lut;04.maj;sty.66;03.sty;5;02.maj;01.cze
+F1;08.03.2003;Rennes;Auxerre;0;0;D;0;0;D;02.mar;3;02.sie;lut.42;03.sty;02.lip;02.maj;3;02.maj;02.maj;lut.87;lut.62;02.kwi;3;lut.75;02.mar;3;02.sie;lut.15;sty.55
+F1;08.03.2003;Sedan;Guingamp;2;0;H;0;0;D;02.lut;3;3;lut.18;mar.15;03.maj;2;3;03.mar;lut.25;03.lut;lut.75;02.lut;3;03.sty;02.sty;03.sty;03.sty;01.wrz;01.lip
+F1;08.03.2003;Sochaux;Lille;2;2;D;2;0;H;1.571;mar.25;05.maj;sty.62;03.mar;05.kwi;sty.65;03.lut;04.cze;sty.61;03.lut;05.maj;1.615;mar.25;maj.25;sty.57;03.mar;05.maj;lut.25;01.maj
+F1;08.03.2003;Troyes;Montpellier;0;2;A;0;1;A;1.909;3;mar.75;sty.85;03.sty;04.lut;01.wrz;3;03.cze;2;3;03.kwi;01.wrz;03.sty;mar.75;01.wrz;3;mar.75;lut.15;sty.55
+F1;09.03.2003;Marseille;Paris SG;0;3;A;0;1;A;1.833;3;4;sty.85;03.sty;04.lut;01.sie;03.sty;03.sie;sty.83;03.lut;mar.75;01.sie;03.sty;04.lut;01.sie;03.sty;4;02.maj;01.cze
+F1;14.03.2003;Lens;Nantes;0;1;A;0;0;D;2;3;03.kwi;sty.93;03.maj;03.sie;02.sty;02.sie;03.mar;2;3;03.kwi;sty.91;03.sty;mar.75;01.wrz;3;mar.75;02.maj;01.cze
+F1;14.03.2003;Lille;Montpellier;2;0;H;0;0;D;2;3;03.kwi;2;03.maj;03.cze;02.sty;02.sie;03.mar;2;03.lut;03.lut;2;3;03.maj;02.sty;lut.87;03.mar;01.wrz;01.lip
+F1;14.03.2003;Sochaux;Ajaccio;1;1;D;1;0;H;sty.57;mar.25;05.maj;sty.58;03.kwi;maj.65;01.cze;03.lut;5;01.maj;03.kwi;6;sty.57;03.kwi;05.maj;sty.53;03.kwi;05.maj;sty.95;sty.65
+F1;18.03.2003;Guingamp;Lille;1;0;H;1;0;H;01.wrz;03.sty;03.cze;sty.95;03.maj;mar.85;02.sty;02.sie;03.mar;;;;sty.91;03.sty;mar.75;01.wrz;03.lut;03.maj;lut.15;sty.55
+F1;19.03.2003;Strasbourg;Bordeaux;1;1;D;0;0;D;lut.62;lut.87;02.maj;02.lip;3;02.maj;02.sie;02.sie;02.kwi;;;;02.cze;3;02.maj;02.maj;02.wrz;lut.62;lut.15;sty.55
+F1;22.03.2003;Ajaccio;Rennes;1;0;H;0;0;D;02.sty;3;03.lut;lut.15;03.maj;mar.25;02.sty;02.sie;03.mar;02.lut;3;3;02.lut;3;03.sty;02.lut;02.sie;03.lut;lut.25;01.maj
+F1;22.03.2003;Auxerre;Lens;0;0;D;0;0;D;1.909;3;mar.75;sty.92;03.maj;4;01.wrz;02.wrz;03.sie;01.wrz;3;mar.75;1.909;03.sty;mar.75;01.wrz;3;mar.75;lut.25;01.maj
+F1;22.03.2003;Bordeaux;Nantes;0;0;D;0;0;D;1.833;3;4;01.wrz;03.sty;4;sty.85;03.sty;03.cze;01.sie;03.lut;4;1.833;03.sty;4;01.sie;03.sty;4;sty.95;sty.65
+F1;22.03.2003;Guingamp;Troyes;2;0;H;0;0;D;1.833;3;4;sty.85;03.lut;4;01.sie;03.sty;03.sie;01.sie;mar.25;mar.75;01.sie;03.lut;4;01.sie;mar.25;03.sie;sty.95;sty.65
+F1;22.03.2003;Le Havre;Monaco;0;3;A;0;3;A;02.sie;2.875;2.375;lut.85;3;02.kwi;03.sty;02.sie;02.lut;3;3;02.lut;02.sie;3;2.375;02.lip;3;lut.37;sty.95;01.cze
+F1;22.03.2003;Lille;Bastia;1;1;D;1;0;H;02.sty;3;03.lut;02.sty;3;mar.45;02.lut;02.sie;03.sty;01.wrz;03.lut;03.maj;02.sty;3;mar.25;02.sty;3;03.lut;sty.95;01.cze
+F1;22.03.2003;Montpellier;Marseille;1;2;A;0;1;A;lut.75;2.875;02.kwi;02.sie;lut.95;lut.47;02.sie;02.sie;02.kwi;lut.75;3;lut.37;lut.75;3;02.kwi;lut.62;02.wrz;02.maj;02.maj;01.cze
+F1;22.03.2003;Paris SG;Sedan;2;0;H;0;0;D;01.maj;03.cze;05.maj;01.maj;03.cze;cze.25;01.kwi;03.lip;06.maj;01.maj;03.kwi;6;01.maj;03.kwi;06.maj;sty.44;03.cze;06.maj;sty.85;sty.75
+F1;22.03.2003;Strasbourg;Sochaux;1;3;A;0;1;A;02.sty;3;03.lut;lut.15;02.sie;03.mar;02.sty;02.sie;03.mar;02.lut;03.lut;02.sie;02.sty;3;mar.25;02.sty;lut.87;03.mar;lut.15;sty.55
+F1;23.03.2003;Nice;Lyon;0;1;A;0;0;D;02.maj;2.875;2.625;lut.65;3;lut.55;02.cze;02.sie;02.cze;02.maj;03.lut;02.maj;02.maj;3;2.625;02.maj;02.wrz;lut.62;sty.95;sty.65
+F1;05.04.2003;Auxerre;Ajaccio;1;0;H;0;0;D;1.667;mar.25;04.maj;sty.62;mar.35;maj.35;01.cze;03.lut;5;sty.66;mar.25;04.maj;1.615;03.lut;05.maj;sty.61;03.sty;05.maj;sty.95;sty.65
+F1;05.04.2003;Bastia;Troyes;1;1;D;1;0;H;1.615;mar.25;5;sty.65;03.mar;maj.15;sty.65;03.lut;04.cze;sty.66;mar.25;04.maj;1.615;03.mar;05.lut;sty.57;03.mar;05.maj;sty.95;sty.65
+F1;05.04.2003;Lens;Strasbourg;1;1;D;0;0;D;1.727;03.sty;04.maj;sty.72;03.lut;kwi.75;01.lip;03.sty;04.kwi;01.sie;03.lut;4;1.727;3;5;sty.72;03.sty;04.maj;sty.95;sty.65
+F1;05.04.2003;Lyon;Le Havre;2;1;H;1;1;D;1.364;mar.75;8;01.kwi;4;lip.35;sty.35;03.sie;07.maj;01.kwi;mar.75;7;01.kwi;mar.75;07.maj;01.kwi;03.cze;07.maj;sty.75;sty.85
+F1;05.04.2003;Marseille;Guingamp;0;2;A;0;2;A;01.maj;03.kwi;6;sty.48;mar.75;cze.25;sty.45;03.cze;05.sie;sty.44;03.cze;06.maj;1.444;mar.75;06.maj;sty.44;03.maj;7;01.sie;01.sie
+F1;05.04.2003;Nantes;Lille;1;0;H;0;0;D;1.615;mar.25;5;sty.63;mar.25;maj.35;sty.65;03.lut;04.cze;sty.61;mar.25;5;1.615;03.lut;05.maj;sty.57;03.mar;05.maj;01.wrz;01.lip
+F1;05.04.2003;Rennes;Bordeaux;3;4;A;1;0;H;02.lip;3;02.kwi;02.lip;3;02.maj;02.cze;02.sie;02.cze;02.maj;mar.25;02.kwi;02.lip;03.sty;2.375;lut.62;02.wrz;02.maj;lut.22;01.maj
+F1;05.04.2003;Sedan;Montpellier;1;2;A;1;1;D;2;3;03.kwi;sty.97;03.sty;mar.65;01.wrz;3;03.cze;2;3;03.kwi;2;3;03.maj;01.wrz;03.sty;03.cze;01.wrz;01.lip
+F1;05.04.2003;Sochaux;Paris SG;0;0;D;0;0;D;lut.25;3;2.875;02.mar;03.maj;02.wrz;02.kwi;02.wrz;02.lip;lut.25;3;lut.87;02.mar;03.sty;02.sie;02.lut;3;3;sty.95;sty.65
+F1;06.04.2003;Monaco;Nice;0;1;A;0;0;D;1.571;03.maj;5;sty.55;03.maj;maj.75;01.cze;03.lut;5;sty.61;mar.25;5;1.571;03.kwi;05.maj;sty.57;03.mar;05.maj;sty.85;sty.75
+F1;08.04.2003;Auxerre;Sedan;3;1;H;1;0;H;01.maj;03.kwi;6;sty.57;mar.25;05.maj;sty.55;03.kwi;5;1.615;mar.25;5;01.maj;03.maj;6;sty.57;03.mar;05.maj;lut.15;sty.55
+F1;11.04.2003;Bordeaux;Lyon;0;1;A;0;0;D;lut.25;3;2.875;lut.25;03.maj;3;02.mar;02.sie;02.wrz;lut.25;3;2.875;lut.25;3;3;02.lut;3;3;02.maj;01.cze
+F1;12.04.2003;Ajaccio;Monaco;2;4;A;0;4;A;02.sie;3;02.mar;3;03.sty;lut.25;3;02.wrz;02.lut;3;3;02.lut;3;3;lut.25;3;3;02.lut;lut.25;01.maj
+F1;12.04.2003;Guingamp;Bastia;3;0;H;2;0;H;01.sie;03.sty;4;sty.85;03.sty;04.lut;sty.85;03.sty;03.cze;01.sie;mar.25;mar.75;sty.85;03.sty;4;sty.83;3;4;lut.25;01.maj
+F1;12.04.2003;Le Havre;Rennes;0;1;A;0;1;A;1.833;3;4;01.wrz;03.sty;03.wrz;01.wrz;3;03.cze;02.sty;03.lut;3;1.909;03.sty;mar.75;sty.83;3;4;lut.25;01.maj
+F1;12.04.2003;Lille;Sedan;0;0;D;0;0;D;01.sie;03.sty;4;01.sie;03.lut;04.lut;01.sie;03.sty;03.sie;01.wrz;03.lut;03.maj;01.sie;03.sty;04.lut;01.sie;03.sty;4;lut.15;sty.55
+F1;12.04.2003;Montpellier;Sochaux;0;2;A;0;1;A;lut.25;3;2.875;lut.25;03.maj;3;02.lut;02.wrz;3;lut.37;3;lut.75;lut.25;3;3;02.lut;3;3;lut.25;01.maj
+F1;12.04.2003;Nice;Auxerre;1;0;H;0;0;D;02.sty;3;03.lut;02.lut;3;mar.15;02.mar;02.wrz;02.sie;02.lut;3;3;02.lut;3;03.sty;02.lut;3;3;lut.15;sty.55
+F1;12.04.2003;Paris SG;Lens;0;1;A;0;0;D;1.727;03.sty;04.maj;sty.75;03.lut;04.cze;sty.75;03.sty;04.lut;sty.61;mar.25;5;sty.75;03.sty;04.maj;01.sie;02.wrz;04.maj;lut.15;sty.55
+F1;12.04.2003;Strasbourg;Nantes;2;0;H;1;0;H;02.maj;03.sty;02.maj;02.cze;3;02.cze;02.lip;02.wrz;02.kwi;02.kwi;mar.25;02.maj;02.maj;3;02.cze;lut.62;02.wrz;02.maj;lut.25;01.maj
+F1;12.04.2003;Troyes;Marseille;0;0;D;0;0;D;3;3;02.lut;03.lut;03.sty;lut.15;3;02.wrz;02.lut;lut.75;03.lut;lut.25;3;03.sty;02.lut;3;3;02.lut;lut.15;sty.55
+F1;19.04.2003;Ajaccio;Bordeaux;1;6;A;0;1;A;3;3;02.lut;03.lut;03.sty;lut.15;03.sty;02.sie;02.lut;3;03.lut;02.sty;3;03.sty;02.lut;lut.87;3;lut.25;lut.35;sty.45
+F1;19.04.2003;Auxerre;Le Havre;1;0;H;1;0;H;1.571;mar.25;05.maj;01.cze;03.kwi;05.maj;01.maj;03.kwi;05.cze;1.667;03.lut;5;1.571;03.kwi;05.maj;sty.57;03.mar;05.maj;lut.15;sty.55
+F1;19.04.2003;Bastia;Montpellier;1;2;A;0;1;A;1.833;3;4;01.wrz;03.maj;04.maj;01.wrz;3;03.cze;1.833;03.lut;mar.75;sty.85;03.sty;4;sty.83;3;4;lut.15;sty.55
+F1;19.04.2003;Lyon;Lille;0;0;D;0;0;D;1.286;04.maj;8;sty.33;04.kwi;sie.25;01.kwi;03.lip;06.maj;1.364;mar.75;8;1.333;4;08.maj;sty.36;mar.75;8;01.sie;01.sie
+F1;19.04.2003;Nantes;Paris SG;1;1;D;0;0;D;1.909;3;mar.75;02.maj;03.sty;03.kwi;02.sty;02.wrz;03.lut;02.sty;3;03.lut;2;3;03.maj;2;3;03.kwi;02.maj;01.cze
+F1;19.04.2003;Rennes;Nice;2;2;D;1;1;D;02.mar;3;02.sie;lut.35;3;02.wrz;02.mar;02.sie;02.wrz;lut.25;3;2.875;02.mar;3;2.875;lut.37;02.wrz;02.sie;lut.15;sty.55
+F1;19.04.2003;Sedan;Troyes;4;0;H;0;0;D;2;3;03.kwi;2;03.sty;mar.55;sty.85;03.sty;03.cze;1.909;03.lut;03.maj;sty.95;03.sty;03.cze;01.wrz;03.sty;03.cze;02.maj;01.cze
+F1;19.04.2003;Sochaux;Guingamp;0;0;D;0;0;D;1.833;03.lut;mar.75;sty.92;03.lut;03.lip;sty.85;03.sty;03.cze;01.sie;03.lut;4;01.sie;03.lut;4;sty.83;03.lut;mar.75;lut.15;sty.55
+F1;20.04.2003;Lens;Marseille;0;1;A;0;1;A;2.375;3;02.lip;02.kwi;03.sty;lut.75;02.mar;02.sie;02.wrz;lut.25;03.lut;lut.75;02.kwi;3;lut.75;lut.25;3;lut.87;02.maj;01.cze
+F1;20.04.2003;Monaco;Strasbourg;2;0;H;1;0;H;01.maj;03.kwi;6;sty.45;03.lip;06.wrz;01.kwi;03.lip;06.maj;01.kwi;mar.75;7;01.kwi;mar.75;07.maj;sty.44;03.maj;7;sty.85;sty.75
+F1;03.05.2003;Bordeaux;Auxerre;0;1;A;0;0;D;01.sie;3;04.lut;01.sie;03.lut;kwi.25;01.sie;03.sty;03.sie;01.sie;03.lut;4;01.sie;03.lut;4;01.sie;03.sty;4;01.wrz;sty.75
+F1;03.05.2003;Guingamp;Lens;1;0;H;1;0;H;1.909;3;mar.75;sty.95;03.sty;mar.75;01.wrz;3;03.cze;1.909;03.lut;03.maj;2;2.875;mar.75;01.wrz;03.sty;03.cze;2;sty.65
+F1;03.05.2003;Le Havre;Ajaccio;0;1;A;0;0;D;1.833;03.lut;mar.75;sty.85;mar.15;04.sty;01.sie;03.sty;03.sie;01.sie;03.lut;4;1.833;03.sty;4;2;3;03.kwi;2;sty.65
+F1;03.05.2003;Lille;Rennes;1;0;H;1;0;H;2;3;03.kwi;02.lut;3;mar.65;01.wrz;3;03.cze;2;3;03.kwi;2;3;03.maj;2;lut.87;03.cze;02.sty;01.cze
+F1;03.05.2003;Marseille;Bastia;2;1;H;1;0;H;1.333;4;8;sty.37;4;8;sty.35;03.sie;07.maj;01.kwi;mar.75;7;01.kwi;mar.75;07.maj;01.kwi;03.cze;07.maj;sty.85;01.sie
+F1;03.05.2003;Montpellier;Nantes;1;0;H;1;0;H;02.mar;03.lut;2.625;lut.45;3;lut.75;02.kwi;3;02.cze;2.375;03.lut;02.cze;2.375;3;lut.75;02.mar;03.sty;lut.75;2;sty.65
+F1;03.05.2003;Nice;Sedan;0;0;D;0;0;D;1.667;03.mar;04.maj;sty.62;03.kwi;05.lut;01.lip;03.sty;04.kwi;1.667;mar.25;04.maj;1.615;03.kwi;5;sty.61;03.mar;5;2;sty.65
+F1;03.05.2003;Strasbourg;Lyon;0;4;A;0;1;A;03.lut;03.lut;2;mar.35;03.lut;02.mar;03.lut;02.wrz;02.sty;3;03.lut;02.sty;03.kwi;03.sty;2;03.sty;03.sty;02.sty;sty.95;01.lip
+F1;03.05.2003;Troyes;Sochaux;0;2;A;0;0;D;02.maj;03.sty;02.maj;02.lip;03.sty;lut.43;;;;lut.75;03.lut;lut.25;02.cze;03.lut;02.kwi;lut.62;03.sty;lut.37;2;sty.65
+F1;04.05.2003;Paris SG;Monaco;2;1;H;0;1;A;02.maj;03.sty;02.maj;lut.45;03.maj;lut.73;02.kwi;3;02.cze;02.maj;2.875;2.625;02.maj;3;02.cze;lut.37;03.sty;lut.62;sty.85;01.sie
+F1;10.05.2003;Ajaccio;Nice;2;0;H;1;0;H;02.mar;3;02.sie;lut.33;03.sty;lut.85;02.mar;02.wrz;02.sie;02.kwi;mar.25;02.maj;02.mar;03.sty;02.sie;02.kwi;02.wrz;lut.75;lut.35;sty.45
+F1;10.05.2003;Auxerre;Lille;0;0;D;0;0;D;1.571;mar.25;05.maj;sty.55;03.kwi;6;01.cze;03.sty;05.lut;1.615;mar.25;5;1.571;03.kwi;05.maj;sty.57;03.mar;05.maj;lut.15;sty.55
+F1;10.05.2003;Bordeaux;Le Havre;2;0;H;2;0;H;1.444;03.cze;06.maj;sty.45;mar.75;cze.75;01.kwi;03.lip;06.maj;01.maj;03.kwi;6;1.444;mar.75;06.maj;sty.44;03.cze;06.maj;lut.15;sty.55
+F1;10.05.2003;Lens;Troyes;1;0;H;0;0;D;1.615;03.maj;04.maj;01.maj;mar.65;6;;;;1.444;03.cze;06.maj;1.571;03.kwi;05.maj;sty.53;03.kwi;05.maj;02.maj;01.cze
+F1;10.05.2003;Monaco;Montpellier;3;1;H;0;0;D;1.444;03.cze;06.maj;01.kwi;mar.85;07.maj;01.kwi;03.lip;06.maj;01.maj;03.kwi;6;01.kwi;mar.75;07.maj;01.maj;03.kwi;6;sty.95;sty.65
+F1;10.05.2003;Nantes;Guingamp;0;4;A;0;2;A;02.sty;03.lut;3;2;mar.15;03.maj;2;02.wrz;03.kwi;02.sty;03.lut;3;2;03.sty;03.kwi;01.wrz;03.sty;03.cze;02.maj;01.cze
+F1;10.05.2003;Rennes;Strasbourg;2;3;A;1;1;D;1.667;mar.25;04.maj;sty.67;03.mar;5;01.lip;3;04.cze;1.727;03.lut;4.333;01.lip;mar.25;04.maj;01.sie;03.sty;4;sty.95;sty.65
+F1;10.05.2003;Sedan;Bastia;2;2;D;1;2;A;1.615;mar.25;5;sty.57;03.kwi;maj.75;;;;1.667;mar.25;04.maj;1.615;mar.25;05.lut;sty.72;03.lut;kwi.33;01.wrz;01.lip
+F1;10.05.2003;Sochaux;Marseille;3;0;H;1;0;H;02.mar;03.lut;2.625;lut.35;03.lut;02.lip;02.maj;3;02.maj;lut.25;03.lut;lut.75;02.mar;03.lut;lut.75;lut.25;03.lut;lut.75;02.maj;01.cze
+F1;11.05.2003;Lyon;Paris SG;1;0;H;1;0;H;1.667;03.kwi;4.333;01.cze;mar.55;5;sty.65;03.mar;04.kwi;1.615;mar.25;5;1.615;03.kwi;5;sty.66;03.mar;04.maj;sty.75;sty.85
+F1;20.05.2003;Bastia;Sochaux;2;2;D;1;2;A;lut.75;03.lut;lut.25;lut.75;03.lut;lut.27;;;;;;;lut.75;mar.25;lut.25;;;;02.maj;01.cze
+F1;20.05.2003;Guingamp;Monaco;3;1;H;1;0;H;02.sie;03.lut;02.lut;02.cze;mar.15;02.kwi;3;03.mar;2;02.sie;03.lut;02.lut;2.625;03.mar;02.mar;;;;sty.95;sty.65
+F1;20.05.2003;Le Havre;Lens;1;3;A;0;1;A;1.833;03.lut;mar.75;sty.85;mar.35;mar.55;;;;1.909;03.lut;03.maj;01.sie;mar.25;4;;;;lut.15;sty.55
+F1;20.05.2003;Lille;Ajaccio;2;0;H;0;0;D;1.909;2.875;4;2;lut.85;04.lut;;;;1.833;3;4;sty.85;02.wrz;4.333;;;;02.maj;01.cze
+F1;20.05.2003;Marseille;Sedan;4;2;H;2;0;H;1.444;03.cze;06.maj;sty.45;mar.75;cze.15;01.maj;03.maj;05.kwi;01.maj;03.kwi;6;1.444;mar.75;06.maj;;;;01.wrz;01.lip
+F1;20.05.2003;Montpellier;Lyon;1;1;D;1;1;D;03.maj;03.lut;1.909;mar.25;03.maj;02.maj;03.cze;02.lip;2;mar.75;3;1.909;mar.75;3;1.909;;;;sty.95;sty.65
+F1;20.05.2003;Nice;Bordeaux;1;1;D;1;0;H;02.maj;mar.25;02.kwi;02.cze;mar.15;02.kwi;;;;02.maj;03.lut;02.maj;02.lip;03.lut;02.mar;;;;lut.15;sty.55
+F1;20.05.2003;Paris SG;Rennes;0;0;D;0;0;D;1.833;03.lut;mar.75;sty.83;mar.35;mar.65;;;;01.sie;03.lut;4;01.sie;03.kwi;mar.75;;;;sty.95;sty.65
+F1;20.05.2003;Strasbourg;Auxerre;1;2;A;1;1;D;lut.75;03.lut;lut.25;02.lip;mar.15;lut.33;;;;02.cze;03.lut;2.375;02.sie;03.lut;lut.25;;;;02.maj;01.cze
+F1;20.05.2003;Troyes;Nantes;2;0;H;0;0;D;2.625;03.sty;2.375;lut.65;03.sty;02.kwi;;;;lut.25;03.lut;lut.75;2.625;03.sty;02.kwi;;;;lut.15;sty.55
+F1;24.05.2003;Ajaccio;Strasbourg;0;0;D;0;0;D;1.615;02.wrz;6;sty.55;lut.95;7;;;;01.maj;03.cze;05.maj;1.533;3;7;sty.57;lut.87;7;;
+F1;24.05.2003;Auxerre;Paris SG;2;0;H;2;0;H;1.615;03.maj;04.maj;sty.55;03.lip;04.lip;;;;1.615;03.maj;04.maj;1.571;03.maj;5;sty.57;mar.75;04.maj;;
+F1;24.05.2003;Bordeaux;Lille;2;0;H;1;0;H;1.333;4;8;sty.28;kwi.75;07.maj;;;;sty.25;04.maj;10;1.286;4.333;08.maj;sty.28;04.maj;8;;
+F1;24.05.2003;Le Havre;Nice;2;1;H;1;0;H;1.909;03.maj;03.lut;sty.75;mar.25;04.lut;;;;2;03.kwi;3;sty.85;mar.25;03.cze;01.wrz;mar.75;3;;
+F1;24.05.2003;Lens;Bastia;2;0;H;1;0;H;1.727;03.lut;4.333;sty.75;mar.25;4;;;;1.615;mar.25;5;1.667;03.lut;kwi.75;sty.66;03.mar;04.maj;;
+F1;24.05.2003;Lyon;Guingamp;1;4;A;0;2;A;1.909;03.maj;03.lut;sty.85;mar.75;03.sty;;;;1.909;mar.25;03.kwi;1.909;03.kwi;mar.25;2;03.cze;lut.87;;
+F1;24.05.2003;Monaco;Troyes;6;0;H;3;0;H;1.333;mar.75;9;sty.27;04.maj;9;;;;;;;01.mar;04.lut;08.maj;01.kwi;03.cze;07.maj;;
+F1;24.05.2003;Nantes;Marseille;1;0;H;0;0;D;lut.75;03.lut;lut.25;;;;;;;03.cze;03.kwi;01.sie;02.sie;mar.25;02.lut;02.maj;03.kwi;02.mar;;
+F1;24.05.2003;Rennes;Montpellier;3;1;H;1;1;D;1.615;mar.25;5;01.maj;mar.15;7;;;;1.444;03.cze;06.maj;1.571;mar.25;05.maj;sty.57;03.sty;6;;
+F1;24.05.2003;Sochaux;Sedan;2;1;H;1;0;H;1.615;03.cze;4.333;01.cze;03.lip;04.mar;;;;01.kwi;4;06.maj;1.615;mar.75;04.lut;sty.61;mar.75;04.lut;;
